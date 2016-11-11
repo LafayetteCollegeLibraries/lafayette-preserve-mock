@@ -67,5 +67,422 @@
 	"form": [],
 	"score": 1.0
 },{
-    "id":"postcard","title":["[fd0001] [Kasuga Shrine: Calling the Deer]"],"creator":[],"creator_photographer":null,"format_medium":null,"format_size":null,"date_approximate":null,"date_range":null,"creator_maker":null,"date_original_display":null,"description_size":null,"description_note":null,"subject_lcsh":null,"publisher_original":null,"date_original":null,"format_extent":null,"description_condition":null,"description_provenance":null,"description_series":null,"identifier_itemnumber":null,"publisher_digital":null,"format_digital":null,"rights_digital":null,"subject_ocm":null,"description_critical":null,"description_indicia":null,"description_text":null,"description_inscription":null,"description_ethnicity":null,"description_citation":null,"coverage_location_country":null,"coverage_location":null,"creator_company":null,"relation_seealso":null,"date_image_upper":null,"date_image_lower":null,"title_name":null,"description_class":null,"date_birth_display":null,"coverage_place_birth":null,"description_military_branch":null,"description_military_rank":null,"description_military_unit":null,"date_death_display":null,"coverage_place_death":null,"description_cause_death":null,"description_honors":null,"type":"Work","contributor":[],"description":[],"keyword":[],"rights":["This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."],"publisher":["Special Collections \u0026 College Archives, Skillman Library, Lafayette College"],"date_created":[],"subject":[],"language":[],"identifier":null,"based_near":null,"related_url":null,"bibliographic_citation":null,"source":[],"thumbnail_path":"/downloads/postcard?file=thumbnail","date_artifact_upper":null,"date_artifact_lower":null,"uses_vocabulary":[],"form":[],"score":1.0}],
-	     "facets":[{"name":"human_readable_type_sim","items":[{"value":"Work","hits":10,"label":"Work"},{"value":"Collection","hits":6,"label":"Collection"}],"label":"Type"},{"name":"resource_type_sim","items":[],"label":"Resource Type"},{"name":"creator_sim","items":[{"value":"Adam Malantonio","hits":1,"label":"Adam Malantonio"},{"value":"An updated creator","hits":1,"label":"An updated creator"},{"value":"Demiere, Darcis de -- engraver","hits":1,"label":"Demiere, Darcis de -- engraver"},{"value":"Ikegami Naoko","hits":1,"label":"Ikegami Naoko"},{"value":"Lafayette College","hits":1,"label":"Lafayette College"},{"value":"Lafayette Special Collections and College Archives","hits":1,"label":"Lafayette Special Collections and College Archives"}],"label":"Creator"},{"name":"keyword_sim","items":[{"value":"210 RECORDS","hits":1,"label":"210 RECORDS"},{"value":"Alpha Chi Rho (Fraternity)","hits":1,"label":"Alpha Chi Rho (Fraternity)"},{"value":"An updated keyword","hits":1,"label":"An updated keyword"},{"value":"Another updated keyword","hits":1,"label":"Another updated keyword"},{"value":"Lafayette College (Easton, Pa.) -- Buildings","hits":1,"label":"Lafayette College (Easton, Pa.) -- Buildings"},{"value":"Lafayette College (Easton, Pa.) -- Student housing","hits":1,"label":"Lafayette College (Easton, Pa.) -- Student housing"}],"label":"Keyword"},{"name":"subject_sim","items":[{"value":"Test Term Baz PUT create","hits":1,"label":"Test Term Baz PUT create"},{"value":"Test Term Qux PUT create","hits":1,"label":"Test Term Qux PUT create"},{"value":"Test Term: Another one","hits":1,"label":"Test Term: Another one"}],"label":"Subject"},{"name":"language_sim","items":[{"value":"english","hits":1,"label":"english"}],"label":"Language"},{"name":"based_near_sim","items":[],"label":"Location"},{"name":"publisher_sim","items":[{"value":"Special Collections \u0026 College Archives, Skillman Library, Lafayette College","hits":2,"label":"Special Collections \u0026 College Archives, Skillman Library, Lafayette College"}],"label":"Publisher"},{"name":"file_format_sim","items":[],"label":"File Format"},{"name":"subject_ocm_sim","items":[{"value":"200 COMMUNICATION","hits":2,"label":"200 COMMUNICATION"},{"value":"205 MAIL","hits":2,"label":"205 MAIL"},{"value":"210 RECORDS","hits":2,"label":"210 RECORDS"},{"value":"212 WRITING","hits":2,"label":"212 WRITING"},{"value":"530 ARTS","hits":2,"label":"530 ARTS"},{"value":"5311 VISUAL ARTS","hits":2,"label":"5311 VISUAL ARTS"}],"label":"Subject.OCM"},{"name":"date_original_sim","items":[{"value":"2016-10-27T00:00:00","hits":1,"label":"2016-10-27T00:00:00"},{"value":"2016-10-27T00:00:00.0000-4:00","hits":1,"label":"2016-10-27T00:00:00.0000-4:00"}],"label":"Date.Original"},{"name":"date_artifact_upper_sim","items":[{"value":"1945-08-15","hits":3,"label":"1945-08-15"},{"value":"1954-12-01","hits":1,"label":"1954-12-01"}],"label":"Date.Artifact.Upper"},{"name":"date_artifact_lower_sim","items":[{"value":"1933-02-15","hits":3,"label":"1933-02-15"},{"value":"1918-03-08","hits":1,"label":"1918-03-08"}],"label":"Date.Artifact.Lower"},{"name":"date_image_upper_sim","items":[],"label":"Date.Image.Upper"},{"name":"date_image_lower_sim","items":[],"label":"Date.Image.Lower"},{"name":"subject_loc_sim","items":[{"value":"Test Term Baz PUT create","hits":1,"label":"Test Term Baz PUT create"},{"value":"Test Term Qux PUT create","hits":1,"label":"Test Term Qux PUT create"},{"value":"Test Term: Another one","hits":1,"label":"Test Term: Another one"}],"label":"Subject.LOC"},{"name":"subject_lcsh_sim","items":[{"value":"Test Term Baz PUT create","hits":1,"label":"Test Term Baz PUT create"},{"value":"Test Term Qux PUT create","hits":1,"label":"Test Term Qux PUT create"},{"value":"Test Term: Another one","hits":1,"label":"Test Term: Another one"}],"label":"Subject.LCSH"},{"name":"creator_photographer_sim","items":[{"value":"Adam Malantonio","hits":1,"label":"Adam Malantonio"},{"value":"An updated creator","hits":1,"label":"An updated creator"},{"value":"Demiere, Darcis de -- engraver","hits":1,"label":"Demiere, Darcis de -- engraver"},{"value":"Ikegami Naoko","hits":1,"label":"Ikegami Naoko"},{"value":"Lafayette College","hits":1,"label":"Lafayette College"},{"value":"Lafayette Special Collections and College Archives","hits":1,"label":"Lafayette Special Collections and College Archives"}],"label":"Creator.Photographer"},{"name":"creator_maker_sim","items":[],"label":"Creator.Maker"},{"name":"publisher_original_sim","items":[{"value":"Special Collections \u0026 College Archives, Skillman Library, Lafayette College","hits":2,"label":"Special Collections \u0026 College Archives, Skillman Library, Lafayette College"}],"label":"Publisher.Original"}],"pages":{"current_page":1,"next_page":2,"prev_page":null,"total_pages":2,"limit_value":10,"offset_value":0,"total_count":16,"first_page?":true,"last_page?":false},"facet_counts":{"facet_queries":{},"facet_fields":{"human_readable_type_sim":["Work",10,"Collection",6],"resource_type_sim":[],"creator_sim":["Adam Malantonio",1,"An updated creator",1,"Demiere, Darcis de -- engraver",1,"Ikegami Naoko",1,"Lafayette College",1,"Lafayette Special Collections and College Archives",1],"keyword_sim":["210 RECORDS",1,"Alpha Chi Rho (Fraternity)",1,"An updated keyword",1,"Another updated keyword",1,"Lafayette College (Easton, Pa.) -- Buildings",1,"Lafayette College (Easton, Pa.) -- Student housing",1],"subject_sim":["Test Term Baz PUT create",1,"Test Term Qux PUT create",1,"Test Term: Another one",1],"language_sim":["english",1],"based_near_sim":[],"publisher_sim":["Special Collections \u0026 College Archives, Skillman Library, Lafayette College",2],"file_format_sim":[],"subject_ocm_sim":["200 COMMUNICATION",2,"205 MAIL",2,"210 RECORDS",2,"212 WRITING",2,"530 ARTS",2,"5311 VISUAL ARTS",2],"date_original_sim":["2016-10-27T00:00:00",1,"2016-10-27T00:00:00.0000-4:00",1],"date_artifact_upper_sim":["1945-08-15",3,"1954-12-01",1],"date_artifact_lower_sim":["1933-02-15",3,"1918-03-08",1],"date_image_upper_sim":[],"date_image_lower_sim":[],"subject_loc_sim":["Test Term Baz PUT create",1,"Test Term Qux PUT create",1,"Test Term: Another one",1],"subject_lcsh_sim":["Test Term Baz PUT create",1,"Test Term Qux PUT create",1,"Test Term: Another one",1],"creator_photographer_sim":["Adam Malantonio",1,"An updated creator",1,"Demiere, Darcis de -- engraver",1,"Ikegami Naoko",1,"Lafayette College",1,"Lafayette Special Collections and College Archives",1],"creator_maker_sim":[],"publisher_original_sim":["Special Collections \u0026 College Archives, Skillman Library, Lafayette College",2]},"facet_dates":{},"facet_ranges":{"date_artifact_upper_dtsi":{"counts":[],"gap":"+1MONTH","start":"1900-01-01T00:00:00Z","end":"2016-12-01T00:00:00Z"}},"facet_intervals":{},"facet_heatmaps":{}}}}
+    "id": "postcard",
+    "title": ["[fd0001] [Kasuga Shrine: Calling the Deer]"],
+    "creator": [],
+    "creator_photographer": null,
+    "format_medium": null,
+    "format_size": null,
+    "date_approximate": null,
+    "date_range": null,
+    "creator_maker": null,
+    "date_original_display": null,
+    "description_size": null,
+    "description_note": null,
+    "subject_lcsh": null,
+    "publisher_original": null,
+    "date_original": null,
+    "format_extent": null,
+    "description_condition": null,
+    "description_provenance": null,
+    "description_series": null,
+    "identifier_itemnumber": null,
+    "publisher_digital": null,
+    "format_digital": null,
+    "rights_digital": null,
+    "subject_ocm": null,
+    "description_critical": null,
+    "description_indicia": null,
+    "description_text": null,
+    "description_inscription": null,
+    "description_ethnicity": null,
+    "description_citation": null,
+    "coverage_location_country": null,
+    "coverage_location": null,
+    "creator_company": null,
+    "relation_seealso": null,
+    "date_image_upper": null,
+    "date_image_lower": null,
+    "title_name": null,
+    "description_class": null,
+    "date_birth_display": null,
+    "coverage_place_birth": null,
+    "description_military_branch": null,
+    "description_military_rank": null,
+    "description_military_unit": null,
+    "date_death_display": null,
+    "coverage_place_death": null,
+    "description_cause_death": null,
+    "description_honors": null,
+    "type": "Work",
+    "contributor": [],
+    "description": [],
+    "keyword": [],
+    "rights": ["This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."],
+    "publisher": ["Special Collections \u0026 College Archives, Skillman Library, Lafayette College"],
+    "date_created": [],
+		     "subject": [],
+		     "language": [],
+		     "identifier": null,
+		     "based_near": null,
+		     "related_url": null,
+		     "bibliographic_citation": null,
+		     "source": [],
+		     "thumbnail_path": "/downloads/postcard?file=thumbnail",
+		     "date_artifact_upper": null,
+		     "date_artifact_lower": null,
+		     "uses_vocabulary": [],
+		     "form": [],
+		     "score": 1.0
+},
+		     {
+    "id": "postcard",
+    "title": ["[fd0002] [Kuru Kuru Kurumi-chan]"],
+    "creator": [],
+    "creator_photographer": null,
+    "format_medium": null,
+    "format_size": null,
+    "date_approximate": null,
+    "date_range": null,
+    "creator_maker": null,
+    "date_original_display": null,
+    "description_size": null,
+    "description_note": null,
+    "subject_lcsh": null,
+    "publisher_original": null,
+    "date_original": null,
+    "format_extent": null,
+    "description_condition": null,
+    "description_provenance": null,
+    "description_series": null,
+    "identifier_itemnumber": null,
+    "publisher_digital": null,
+    "format_digital": null,
+    "rights_digital": null,
+    "subject_ocm": null,
+    "description_critical": null,
+    "description_indicia": null,
+    "description_text": null,
+    "description_inscription": null,
+    "description_ethnicity": null,
+    "description_citation": null,
+    "coverage_location_country": null,
+    "coverage_location": null,
+    "creator_company": null,
+    "relation_seealso": null,
+    "date_image_upper": null,
+    "date_image_lower": null,
+    "title_name": null,
+    "description_class": null,
+    "date_birth_display": null,
+    "coverage_place_birth": null,
+    "description_military_branch": null,
+    "description_military_rank": null,
+    "description_military_unit": null,
+    "date_death_display": null,
+    "coverage_place_death": null,
+    "description_cause_death": null,
+    "description_honors": null,
+    "type": "Work",
+    "contributor": [],
+    "description": [],
+    "keyword": [],
+    "rights": ["This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."],
+    "publisher": ["Special Collections \u0026 College Archives, Skillman Library, Lafayette College"],
+    "date_created": [],
+		     "subject": [],
+		     "language": [],
+		     "identifier": null,
+		     "based_near": null,
+		     "related_url": null,
+		     "bibliographic_citation": null,
+		     "source": [],
+		     "thumbnail_path": "/downloads/postcard?file=thumbnail",
+		     "date_artifact_upper": null,
+		     "date_artifact_lower": "1918-03-01",
+		     "uses_vocabulary": [],
+		     "form": [],
+		     "score": 1.0
+		     }],
+	     "facets": [{
+		 "name": "human_readable_type_sim",
+		 "items": [{
+		     "value": "Work",
+		     "hits": 2,
+		     "label": "Work"
+		 }],
+		 "label": "Type"
+	     }, {
+		 "name": "resource_type_sim",
+		 "items": [],
+		 "label": "Resource Type"
+	     }, {
+		 "name": "creator_sim",
+		 "items": [{
+		     "value": "Demiere, Darcis de -- engraver",
+		     "hits": 1,
+		     "label": "Demiere, Darcis de -- engraver"
+		 }, {
+		     "value": "Lafayette College",
+		     "hits": 1,
+		     "label": "Lafayette College"
+		 }, {
+		     "value": "Lafayette Special Collections and College Archives",
+		     "hits": 1,
+		     "label": "Lafayette Special Collections and College Archives"
+		 }, {
+		     "value": "creator4",
+		     "hits": 1,
+		     "label": "creator4"
+		 }, {
+		     "value": "test creator",
+		     "hits": 1,
+		     "label": "test creator"
+		 }],
+		 "label": "Creator"
+	     }, {
+		 "name": "keyword_sim",
+		 "items": [{
+		     "value": "Alpha Chi Rho (Fraternity)",
+		     "hits": 1,
+		     "label": "Alpha Chi Rho (Fraternity)"
+		 }, {
+		     "value": "Lafayette College (Easton, Pa.) -- Buildings",
+		     "hits": 1,
+		     "label": "Lafayette College (Easton, Pa.) -- Buildings"
+		 }, {
+		     "value": "Lafayette College (Easton, Pa.) -- Student housing",
+		     "hits": 1,
+		     "label": "Lafayette College (Easton, Pa.) -- Student housing"
+		 }, {
+		     "value": "The Lafayette",
+		     "hits": 1,
+		     "label": "The Lafayette"
+		 }, {
+		     "value": "keyword4",
+		     "hits": 1,
+		     "label": "keyword4"
+		 }, {
+		     "value": "test keyword",
+		     "hits": 1,
+		     "label": "test keyword"
+		 }],
+		 "label": "Keyword"
+	     }, {
+		 "name": "subject_sim",
+		 "items": [{
+		     "value": "Washington, George, 1732-1799 -- Death and burial",
+		     "hits": 1,
+		     "label": "Washington, George, 1732-1799 -- Death and burial"
+		 }],
+		 "label": "Subject"
+	     }, {
+		 "name": "language_sim",
+		 "items": [{
+		     "value": "english",
+		     "hits": 1,
+		     "label": "english"
+		 }],
+		 "label": "Language"
+	     }, {
+		 "name": "based_near_sim",
+		 "items": [],
+		 "label": "Location"
+	     }, {
+		 "name": "publisher_sim",
+		 "items": [{
+		     "value": "Esnauts et Rapilly -- publisher",
+		     "hits": 1,
+		     "label": "Esnauts et Rapilly -- publisher"
+		 }],
+		 "label": "Publisher"
+	     }, {
+		 "name": "file_format_sim",
+		 "items": [],
+		 "label": "File Format"
+	     }, {
+		 "name": "subject_ocm_sim",
+		 "items": [{
+		     "value": "200 COMMUNICATION",
+		     "hits": 1,
+		     "label": "200 COMMUNICATION"
+		 }, {
+		     "value": "205 MAIL",
+		     "hits": 1,
+		     "label": "205 MAIL"
+		 }, {
+		     "value": "210 RECORDS",
+		     "hits": 1,
+		     "label": "210 RECORDS"
+		 }, {
+		     "value": "212 WRITING",
+		     "hits": 1,
+		     "label": "212 WRITING"
+		 }, {
+		     "value": "530 ARTS",
+		     "hits": 1,
+		     "label": "530 ARTS"
+		 }, {
+		     "value": "5311 VISUAL ARTS",
+		     "hits": 1,
+		     "label": "5311 VISUAL ARTS"
+		 }],
+		 "label": "Subject.OCM"
+	     }, {
+		 "name": "date_original_sim",
+		 "items": [{
+		     "value": "2016-10-27T00:00:00.0000-4:00",
+		     "hits": 1,
+		     "label": "2016-10-27T00:00:00.0000-4:00"
+		 }],
+		 "label": "Date.Original"
+	     },{
+		 "name": "date_artifact_upper_sim",
+		 "items": [{
+		     "value": "1945-08-15",
+		     "hits": 1,
+		     "label": "1945-08-15"
+		 },
+			   {
+			       "value": "1933-02-14",
+			       "hits": 1,
+			       "label": "1933-02-14"
+			   }
+			  ],
+		 "label": "Date.Artifact.Upper"
+	     }, {
+		 "name": "date_artifact_lower_sim",
+		 "items": [{
+		     "value": "1933-02-15",
+		     "hits": 1,
+		     "label": "1933-02-15"
+		 },{
+		     "value": "1918-03-01",
+		     "hits": 1,
+		     "label": "1918-03-01"
+		 }],
+		 "label": "Date.Artifact.Lower"
+	     }, {
+		 "name": "date_image_upper_sim",
+		 "items": [],
+		 "label": "Date.Image.Upper"
+	     }, {
+		 "name": "date_image_lower_sim",
+		 "items": [],
+		 "label": "Date.Image.Lower"
+	     }, {
+		 "name": "subject_loc_sim",
+		 "items": [{
+		     "value": "Washington, George, 1732-1799 -- Death and burial",
+		     "hits": 1,
+		     "label": "Washington, George, 1732-1799 -- Death and burial"
+		 }],
+		 "label": "Subject.LOC"
+	     }, {
+		 "name": "subject_lcsh_sim",
+		 "items": [{
+		     "value": "Washington, George, 1732-1799 -- Death and burial",
+		     "hits": 1,
+		     "label": "Washington, George, 1732-1799 -- Death and burial"
+		 }],
+		 "label": "Subject.LCSH"
+	     }, {
+		 "name": "creator_photographer_sim",
+		 "items": [{
+		     "value": "Adam Malantonio",
+		     "hits": 1,
+		     "label": "Adam Malantonio"
+		 }, {
+		     "value": "Demiere, Darcis de -- engraver",
+		     "hits": 1,
+		     "label": "Demiere, Darcis de -- engraver"
+		 }, {
+		     "value": "Lafayette College",
+		     "hits": 1,
+		     "label": "Lafayette College"
+		 }, {
+		     "value": "Lafayette Special Collections and College Archives",
+		     "hits": 1,
+		     "label": "Lafayette Special Collections and College Archives"
+		 }, {
+		     "value": "creator4",
+		     "hits": 1,
+		     "label": "creator4"
+		 }, {
+		     "value": "test creator",
+		     "hits": 1,
+		     "label": "test creator"
+		 }],
+		 "label": "Creator.Photographer"
+	     }, {
+		 "name": "creator_maker_sim",
+		 "items": [],
+		 "label": "Creator.Maker"
+	     }, {
+		 "name": "publisher_original_sim",
+		 "items": [{
+		     "value": "Esnauts et Rapilly -- publisher",
+		     "hits": 1,
+		     "label": "Esnauts et Rapilly -- publisher"
+		 }, {
+		     "value": "Special Collections \u0026 College Archives, Skillman Library, Lafayette College",
+		     "hits": 1,
+		     "label": "Special Collections \u0026 College Archives, Skillman Library, Lafayette College"
+		 }],
+		 "label": "Publisher.Original"
+	     }],
+	     "pages": {
+		 "current_page": 1,
+		 "next_page": 2,
+		 "prev_page": null,
+		 "total_pages": 2,
+		 "limit_value": 10,
+		 "offset_value": 0,
+		 "total_count": 30,
+		 "first_page?": true,
+		 "last_page?": false
+	     },
+	     "facet_counts": {
+		 "facet_queries": {},
+		 "facet_fields": {
+		     "human_readable_type_sim": ["Work", 2],
+		     "resource_type_sim": [],
+		     "creator_sim": ["Adam Malantonio", 1, "Demiere, Darcis de -- engraver", 1, "Lafayette College", 1, "Lafayette Special Collections and College Archives", 1, "creator4", 1, "test creator", 1],
+		     "keyword_sim": ["Alpha Chi Rho (Fraternity)", 1, "Lafayette College (Easton, Pa.) -- Buildings", 1, "Lafayette College (Easton, Pa.) -- Student housing", 1, "The Lafayette", 1, "keyword4", 1, "test keyword", 1],
+		     "subject_sim": ["Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits", 1, "Test Term Baz PUT create", 1, "Test Term Qux PUT create", 1, "Test Term: Another one", 1, "Washington, George, 1732-1799 -- Death and burial", 1],
+		     "language_sim": ["english", 1],
+		     "based_near_sim": [],
+		     "publisher_sim": ["Esnauts et Rapilly -- publisher", 1, "Special Collections \u0026 College Archives, Skillman Library, Lafayette College", 1],
+		     "file_format_sim": [],
+		     "subject_ocm_sim": ["200 COMMUNICATION", 1, "205 MAIL", 1, "210 RECORDS", 1, "212 WRITING", 1, "530 ARTS", 1, "5311 VISUAL ARTS", 1],
+		     "date_original_sim": ["2016-10-27T00:00:00.0000-4:00", 1],
+		     "date_artifact_upper_sim": ["1945-08-15", 1, "1945-09-15", 1],
+		     "date_artifact_lower_sim": ["1933-02-15", 1, "1934-03-15", 1],
+		     "date_image_upper_sim": [],
+		     "date_image_lower_sim": [],
+		     "subject_loc_sim": ["Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits", 1, "Test Term Baz PUT create", 1, "Test Term Qux PUT create", 1, "Test Term: Another one", 1, "Washington, George, 1732-1799 -- Death and burial", 1],
+		     "subject_lcsh_sim": ["Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits", 1, "Test Term Baz PUT create", 1, "Test Term Qux PUT create", 1, "Test Term: Another one", 1, "Washington, George, 1732-1799 -- Death and burial", 1],
+		     "creator_photographer_sim": ["Adam Malantonio", 1, "Demiere, Darcis de -- engraver", 1, "Lafayette College", 1, "Lafayette Special Collections and College Archives", 1, "creator4", 1, "test creator", 1],
+		     "creator_maker_sim": [],
+		     "publisher_original_sim": ["Esnauts et Rapilly -- publisher", 1, "Special Collections \u0026 College Archives, Skillman Library, Lafayette College", 1]
+		 },
+		 "facet_dates": {},
+		 "facet_ranges": {
+		     "date_artifact_lower_dtsi": {
+			 "counts": [],
+			 "gap": "+1MONTH",
+			 "start": "1900-01-01T00:00:00Z",
+			 "end": "2016-12-01T00:00:00Z"
+		     },
+		     "date_artifact_upper_dtsi": {
+			 "counts": [],
+			 "gap": "+1MONTH",
+			 "start": "1900-01-01T00:00:00Z",
+			 "end": "2016-12-01T00:00:00Z"
+		     }
+		 },
+		 "facet_intervals": {},
+		 "facet_heatmaps": {}
+	     }
+	    }
+}
