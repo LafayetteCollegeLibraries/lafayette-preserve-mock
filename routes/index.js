@@ -36,4 +36,16 @@ router.get('/downloads/postcard', function(req, res) {
     res.send(contents);
 });
 
+router.get('/vocabularies.json', function (req, res) {
+    var contents = fs.readFileSync('public/data/vocabularies.json', 'utf8');
+    res.setHeader('Content-Type', 'application/json');
+    res.send(contents)
+});
+
+router.get('/vocabularies/subjectOcm.json', function (req, res) {
+    var contents = fs.readFileSync('public/data/subjectOcm-limited.json', 'utf8');
+    res.setHeader('Content-Type', 'application/json');
+    res.send(contents)
+});
+
 module.exports = router;
