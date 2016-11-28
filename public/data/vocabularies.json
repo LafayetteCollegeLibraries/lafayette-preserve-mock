@@ -1,13 +1,13 @@
 {
   "vocabularies": [
     {
-      "uri": "http://authority.lafayette.edu/ns/subjectOcm",
-      "label": ["Subject (OCM)"],
+      "uri": "http://authority.lafayette.edu/ns/eaic-subject-ocm",
+      "label": ["EAIC - Subject (OCM)"],
       "alt_label": ["Subject.OCM"],
-      "pref_label": ["Subject (OCM)"],
+      "pref_label": ["EAIC - Subject (OCM)"],
       "hidden_label": [],
-      "absolute_path": "http://localhost:3000/vocabularies/subjectOcm.json",
-      "term_count": 19
+      "absolute_path": "http://localhost:3000/vocabularies/eaic-subject-ocm.json",
+      "term_count": 743
     }
   ]
 }
