@@ -1,7 +1,7 @@
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
-var logger = require('morgan');
+var morgan = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var exphbs  = require('express-handlebars');
@@ -11,6 +11,7 @@ var routes = require('./routes/index');
 var users = require('./routes/user');
 
 var app = express();
+var logger = morgan('dev')
 
 var env = process.env.NODE_ENV || 'development';
 app.locals.ENV = env;
@@ -26,7 +27,13 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'handlebars');
 
 // app.use(favicon(__dirname + '/public/img/favicon.ico'));
-app.use(logger('dev'));
+app.use(function (req, res, next) {
+  if (app.get('quiet') || app.get('env') !== 'development') {
+    return next()
+  }
+
+  logger(req, res, next)
+});
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
   extended: true
