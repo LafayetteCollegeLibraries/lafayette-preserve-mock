@@ -3,4 +3,5 @@ Usage: lafayette-preserve-mock [options]
 Starts mock LafayettePreserve server.
 
 Options:
+    -h, --help   Usage
     -p, --port   Specify which port the server will listen on (default: 3000)

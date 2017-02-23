@@ -10,7 +10,7 @@ if (argv.h || argv.help) {
 
 var port = argv.p || argv.port || process.env.PORT || 3000;
 
-var app = require('./');
+var app = require('../');
 app.set('port', port);
 
 var server = app.listen(port, function() {

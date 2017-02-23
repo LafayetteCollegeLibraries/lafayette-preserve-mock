@@ -6,7 +6,7 @@
   "scripts": {
     "build-catalog": "node build-catalog",
     "debug": "DEBUG=lafayette-preserve-mock* npm start",
-    "start": "./cli.js"
+    "start": "./bin/index.js"
   },
   "dependencies": {
     "body-parser": "^1.13.3",
@@ -16,7 +16,7 @@
     "minimist": "^1.2.0"
   },
   "bin": {
-    "lafayette-preserve-mock": "./cli.js"
+    "lafayette-preserve-mock": "./bin/index.js"
   },
   "devDependencies": {}
 }
