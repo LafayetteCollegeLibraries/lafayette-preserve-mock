@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 var fs = require('fs');
-var logger = require('morgan')
 var argv = require('minimist')(process.argv.slice(2));
 
 if (argv.h || argv.help) {
@@ -16,7 +15,7 @@ app.set('port', port);
 app.set('quiet', quiet)
 
 var server = app.listen(port, function() {
-  if (!quiet && app.get('env') === 'development') {
+  if (!quiet) {
     console.log('Express server listening on port ' + server.address().port);
   }
 });

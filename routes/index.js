@@ -3,12 +3,14 @@ var router = express.Router();
 var fs = require('fs');
 
 router.get('/', function(req, res) {
-    res.render('index', { title: 'MetaDB Mock Server' });
+    res.setHeader('Content-Type', 'application/json')
+    res.send(JSON.stringify({'name': 'lafayette-preserve-mock'}))
 });
 
 router.get('/catalog.json', function(req, res) {
-    var contents = fs.readFileSync('public/data/catalog.json', 'utf8');
     res.setHeader('Content-Type', 'application/json');
+
+    fs.readFile('public/data/catalog.json', 'utf8').pipe(res);
     res.send(contents);
 });
 
