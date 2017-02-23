@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build-catalog": "node build-catalog",
-    "debug": "DEBUG=lafayette-preserve-mock npm start",
+    "debug": "DEBUG=lafayette-preserve-mock* npm start",
     "start": "./cli.js"
   },
   "dependencies": {
