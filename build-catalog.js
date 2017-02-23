@@ -1,5 +1,15 @@
 var fs = require('fs')
 
+function arrayFind (arr, fn) {
+  for (var i = 0; i < arr.length; i++) {
+    if (fn.call(arr[i], arr[i])) {
+      return arr[i]
+    }
+  }
+
+  return null
+}
+
 var docs = [
   require('./public/data/generic_work_postcard.json'),
   require('./public/data/generic_work_print.json'),
@@ -21,13 +31,13 @@ var fieldsToRemove = [
   'resource_type',
 ]
 
-var facetKeys = [
-  'creator',
-  'subject_lcsh',
-  'subject_ocm',
-]
+var facetsToUse = {
+  'creator': 'Creator',
+  'subject_lcsh': 'Subject (LCSH)',
+  'subject_ocm': 'Subject (OCM)',
+}
 
-var facets = {}
+var facets = []
 
 var pages = {
   current_page: 1,
@@ -51,31 +61,42 @@ for (var i = 0; i < docs.length; i++) {
   work.form = []
   work.score = 1
 
-  facetKeys.forEach(function (key) {
+  Object.keys(facetsToUse).forEach(function (key) {
     if (!work[key])
       return
 
-    var facetKey = key + '_sim'
+    var name = key + '_sim'
 
     work[key].forEach(function (value) {
       var found = false
+      var idx = -1
 
-      if (facets[facetKey]) {
-        facets[facetKey].forEach(function (facet) {
-          if (found)
-            return
-
-          if (facet.value === value) {
-            facet.hits++
-            found = true
-          }
-        })
-      } else {
-        facets[facetKey] = []
+      for (var f = 0; f < facets.length; f++) {
+        if (facets[f].name === name) {
+          idx = f
+          break
+        }
       }
 
+      if (idx === -1) {
+        facets.push({
+          name: name,
+          label: facetsToUse[key],
+          items: []
+        })
+
+        idx = facets.length - 1
+      }
+
+      facets[idx].items.forEach(function (item) {
+        if (item.value === value) {
+          item.hits++
+          found = true
+        }
+      })
+
       if (!found) {
-        facets[facetKey].push({
+        facets[idx].items.push({
           value: value,
           hits: 1,
           label: value,

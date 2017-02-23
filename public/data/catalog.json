@@ -121,7 +121,7 @@
         "coverage_place_death": [],
         "description_cause_death": [],
         "description_honors": [],
-        "thumbnail_path": "http://localhost:3000/downloads/postcard?file=thumbnail",
+        "thumbnail_path": "/downloads/postcard?file=thumbnail",
         "uses_vocabulary": [],
         "form": [],
         "score": 1
@@ -268,64 +268,76 @@
         "score": 1
       }
     ],
-    "facets": {
-      "subject_ocm_sim": [
-        {
-          "value": "720 WAR",
-          "hits": 1,
-          "label": "720 WAR"
-        },
-        {
-          "value": "212 WRITING",
-          "hits": 1,
-          "label": "212 WRITING"
-        },
-        {
-          "value": "530 ARTS",
-          "hits": 1,
-          "label": "530 ARTS"
-        },
-        {
-          "value": "205 MAIL",
-          "hits": 1,
-          "label": "205 MAIL"
-        },
-        {
-          "value": "5311 VISUAL ARTS",
-          "hits": 1,
-          "label": "5311 VISUAL ARTS"
-        },
-        {
-          "value": "210 RECORDS",
-          "hits": 1,
-          "label": "210 RECORDS"
-        },
-        {
-          "value": "200 COMMUNICATION",
-          "hits": 1,
-          "label": "200 COMMUNICATION"
-        }
-      ],
-      "creator_sim": [
-        {
-          "value": "Demiere, Darcis de -- engraver",
-          "hits": 1,
-          "label": "Demiere, Darcis de -- engraver"
-        }
-      ],
-      "subject_lcsh_sim": [
-        {
-          "value": "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits",
-          "hits": 1,
-          "label": "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits"
-        },
-        {
-          "value": "Washington, George, 1732-1799 -- Death and burial",
-          "hits": 1,
-          "label": "Washington, George, 1732-1799 -- Death and burial"
-        }
-      ]
-    },
+    "facets": [
+      {
+        "name": "subject_ocm_sim",
+        "label": "Subject (OCM)",
+        "items": [
+          {
+            "value": "720 WAR",
+            "hits": 1,
+            "label": "720 WAR"
+          },
+          {
+            "value": "212 WRITING",
+            "hits": 1,
+            "label": "212 WRITING"
+          },
+          {
+            "value": "530 ARTS",
+            "hits": 1,
+            "label": "530 ARTS"
+          },
+          {
+            "value": "205 MAIL",
+            "hits": 1,
+            "label": "205 MAIL"
+          },
+          {
+            "value": "5311 VISUAL ARTS",
+            "hits": 1,
+            "label": "5311 VISUAL ARTS"
+          },
+          {
+            "value": "210 RECORDS",
+            "hits": 1,
+            "label": "210 RECORDS"
+          },
+          {
+            "value": "200 COMMUNICATION",
+            "hits": 1,
+            "label": "200 COMMUNICATION"
+          }
+        ]
+      },
+      {
+        "name": "creator_sim",
+        "label": "Creator",
+        "items": [
+          {
+            "value": "Demiere, Darcis de -- engraver",
+            "hits": 1,
+            "label": "Demiere, Darcis de -- engraver"
+          }
+        ]
+      },
+      {
+        "name": "subject_lcsh_sim",
+        "label": "Subject (LCSH)",
+        "items": [
+          {
+            "value": "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits",
+            "hits": 1,
+            "label": "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits"
+          },
+          {
+            "value": "Washington, George, 1732-1799 -- Death and burial",
+            "hits": 1,
+            "label": "Washington, George, 1732-1799 -- Death and burial"
+          }
+        ]
+      }
+    ],
     "pages": {
       "current_page": 1,
       "next_page": null,
