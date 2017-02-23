@@ -1,488 +1,341 @@
-{"response":{"docs":[{
-	"id": "print",
-	"title": ["MR. LE MIS. DE LA LAFAYETTE"],
-	"creator": ["Demiere, Darcis de -- engraver"],
-	"creator_photographer": null,
-	"format_medium": null,
-	"format_size": null,
-	"date_approximate": null,
-	"date_range": null,
-	"creator_maker": null,
-	"date_original_display": null,
-	"description_size": null,
-	"description_note": null,
-	"subject_lcsh": null,
-	"publisher_original": null,
-	"date_original": null,
-	"format_extent": null,
-	"description_condition": null,
-	"description_provenance": null,
-	"description_series": null,
-	"identifier_itemnumber": null,
-	"publisher_digital": null,
-	"format_digital": null,
-	"rights_digital": null,
-	"subject_ocm": null,
-	"description_critical": null,
-	"description_indicia": null,
-	"description_text": null,
-	"description_inscription": null,
-	"description_ethnicity": null,
-	"description_citation": null,
-	"coverage_location_country": null,
-	"coverage_location": null,
-	"creator_company": null,
-	"relation_seealso": null,
-	"date_image_upper": null,
-	"date_image_lower": null,
-	"title_name": null,
-	"description_class": null,
-	"date_birth_display": null,
-	"coverage_place_birth": null,
-	"description_military_branch": null,
-	"description_military_rank": null,
-	"description_military_unit": null,
-	"date_death_display": null,
-	"coverage_place_death": null,
-	"description_cause_death": null,
-	"description_honors": null,
-	"type": "Work",
-	"contributor": [],
-	"description": ["Portraits: Before 1789"],
-	"keyword": [],
-	"rights": ["This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."],
-	"publisher": ["Esnauts et Rapilly -- publisher"],
-	"date_created": [],
-	"subject": ["Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits", "Washington, George, 1732-1799 -- Death and burial"],
-	"language": [],
-	"identifier": ["I.1.a"],
-	"based_near": null,
-	"related_url": null,
-	"bibliographic_citation": null,
-	"source": ["Special Collections \u0026 College Archives, Skillman Library, Lafayette College"],
-	"thumbnail_path": "/downloads/print?file=thumbnail",
-	"date_artifact_upper": null,
-	"date_artifact_lower": null,
-	"uses_vocabulary": [],
-	"form": [],
-	"score": 1.0
-},{
-    "id": "postcard",
-    "title": ["[fd0001] [Kasuga Shrine: Calling the Deer]"],
-    "creator": [],
-    "creator_photographer": null,
-    "format_medium": null,
-    "format_size": null,
-    "date_approximate": null,
-    "date_range": null,
-    "creator_maker": null,
-    "date_original_display": null,
-    "description_size": null,
-    "description_note": null,
-    "subject_lcsh": null,
-    "publisher_original": null,
-    "date_original": null,
-    "format_extent": null,
-    "description_condition": null,
-    "description_provenance": null,
-    "description_series": null,
-    "identifier_itemnumber": null,
-    "publisher_digital": null,
-    "format_digital": null,
-    "rights_digital": null,
-    "subject_ocm": null,
-    "description_critical": null,
-    "description_indicia": null,
-    "description_text": null,
-    "description_inscription": null,
-    "description_ethnicity": null,
-    "description_citation": null,
-    "coverage_location_country": null,
-    "coverage_location": null,
-    "creator_company": null,
-    "relation_seealso": null,
-    "date_image_upper": null,
-    "date_image_lower": null,
-    "title_name": null,
-    "description_class": null,
-    "date_birth_display": null,
-    "coverage_place_birth": null,
-    "description_military_branch": null,
-    "description_military_rank": null,
-    "description_military_unit": null,
-    "date_death_display": null,
-    "coverage_place_death": null,
-    "description_cause_death": null,
-    "description_honors": null,
-    "type": "Work",
-    "contributor": [],
-    "description": [],
-    "keyword": [],
-    "rights": ["This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."],
-    "publisher": ["Special Collections \u0026 College Archives, Skillman Library, Lafayette College"],
-    "date_created": [],
-		     "subject": [],
-		     "language": [],
-		     "identifier": null,
-		     "based_near": null,
-		     "related_url": null,
-		     "bibliographic_citation": null,
-		     "source": [],
-		     "thumbnail_path": "/downloads/postcard?file=thumbnail",
-		     "date_artifact_upper": null,
-		     "date_artifact_lower": null,
-		     "uses_vocabulary": [],
-		     "form": [],
-		     "score": 1.0
-},
-		     {
-    "id": "postcard",
-    "title": ["[fd0002] [Kuru Kuru Kurumi-chan]"],
-    "creator": [],
-    "creator_photographer": null,
-    "format_medium": null,
-    "format_size": null,
-    "date_approximate": null,
-    "date_range": null,
-    "creator_maker": null,
-    "date_original_display": null,
-    "description_size": null,
-    "description_note": null,
-    "subject_lcsh": null,
-    "publisher_original": null,
-    "date_original": null,
-    "format_extent": null,
-    "description_condition": null,
-    "description_provenance": null,
-    "description_series": null,
-    "identifier_itemnumber": null,
-    "publisher_digital": null,
-    "format_digital": null,
-    "rights_digital": null,
-    "subject_ocm": null,
-    "description_critical": null,
-    "description_indicia": null,
-    "description_text": null,
-    "description_inscription": null,
-    "description_ethnicity": null,
-    "description_citation": null,
-    "coverage_location_country": null,
-    "coverage_location": null,
-    "creator_company": null,
-    "relation_seealso": null,
-    "date_image_upper": null,
-    "date_image_lower": null,
-    "title_name": null,
-    "description_class": null,
-    "date_birth_display": null,
-    "coverage_place_birth": null,
-    "description_military_branch": null,
-    "description_military_rank": null,
-    "description_military_unit": null,
-    "date_death_display": null,
-    "coverage_place_death": null,
-    "description_cause_death": null,
-    "description_honors": null,
-    "type": "Work",
-    "contributor": [],
-    "description": [],
-    "keyword": [],
-    "rights": ["This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."],
-    "publisher": ["Special Collections \u0026 College Archives, Skillman Library, Lafayette College"],
-    "date_created": [],
-		     "subject": [],
-		     "language": [],
-		     "identifier": null,
-		     "based_near": null,
-		     "related_url": null,
-		     "bibliographic_citation": null,
-		     "source": [],
-		     "thumbnail_path": "/downloads/postcard?file=thumbnail",
-		     "date_artifact_upper": null,
-		     "date_artifact_lower": "1918-03-01",
-		     "uses_vocabulary": [],
-		     "form": [],
-		     "score": 1.0
-		     }],
-	     "facets": [{
-		 "name": "human_readable_type_sim",
-		 "items": [{
-		     "value": "Work",
-		     "hits": 2,
-		     "label": "Work"
-		 }],
-		 "label": "Type"
-	     }, {
-		 "name": "resource_type_sim",
-		 "items": [],
-		 "label": "Resource Type"
-	     }, {
-		 "name": "creator_sim",
-		 "items": [{
-		     "value": "Demiere, Darcis de -- engraver",
-		     "hits": 1,
-		     "label": "Demiere, Darcis de -- engraver"
-		 }, {
-		     "value": "Lafayette College",
-		     "hits": 1,
-		     "label": "Lafayette College"
-		 }, {
-		     "value": "Lafayette Special Collections and College Archives",
-		     "hits": 1,
-		     "label": "Lafayette Special Collections and College Archives"
-		 }, {
-		     "value": "creator4",
-		     "hits": 1,
-		     "label": "creator4"
-		 }, {
-		     "value": "test creator",
-		     "hits": 1,
-		     "label": "test creator"
-		 }],
-		 "label": "Creator"
-	     }, {
-		 "name": "keyword_sim",
-		 "items": [{
-		     "value": "Alpha Chi Rho (Fraternity)",
-		     "hits": 1,
-		     "label": "Alpha Chi Rho (Fraternity)"
-		 }, {
-		     "value": "Lafayette College (Easton, Pa.) -- Buildings",
-		     "hits": 1,
-		     "label": "Lafayette College (Easton, Pa.) -- Buildings"
-		 }, {
-		     "value": "Lafayette College (Easton, Pa.) -- Student housing",
-		     "hits": 1,
-		     "label": "Lafayette College (Easton, Pa.) -- Student housing"
-		 }, {
-		     "value": "The Lafayette",
-		     "hits": 1,
-		     "label": "The Lafayette"
-		 }, {
-		     "value": "keyword4",
-		     "hits": 1,
-		     "label": "keyword4"
-		 }, {
-		     "value": "test keyword",
-		     "hits": 1,
-		     "label": "test keyword"
-		 }],
-		 "label": "Keyword"
-	     }, {
-		 "name": "subject_sim",
-		 "items": [{
-		     "value": "Washington, George, 1732-1799 -- Death and burial",
-		     "hits": 1,
-		     "label": "Washington, George, 1732-1799 -- Death and burial"
-		 }],
-		 "label": "Subject"
-	     }, {
-		 "name": "language_sim",
-		 "items": [{
-		     "value": "english",
-		     "hits": 1,
-		     "label": "english"
-		 }],
-		 "label": "Language"
-	     }, {
-		 "name": "based_near_sim",
-		 "items": [],
-		 "label": "Location"
-	     }, {
-		 "name": "publisher_sim",
-		 "items": [{
-		     "value": "Esnauts et Rapilly -- publisher",
-		     "hits": 1,
-		     "label": "Esnauts et Rapilly -- publisher"
-		 }],
-		 "label": "Publisher"
-	     }, {
-		 "name": "file_format_sim",
-		 "items": [],
-		 "label": "File Format"
-	     }, {
-		 "name": "subject_ocm_sim",
-		 "items": [{
-		     "value": "200 COMMUNICATION",
-		     "hits": 1,
-		     "label": "200 COMMUNICATION"
-		 }, {
-		     "value": "205 MAIL",
-		     "hits": 1,
-		     "label": "205 MAIL"
-		 }, {
-		     "value": "210 RECORDS",
-		     "hits": 1,
-		     "label": "210 RECORDS"
-		 }, {
-		     "value": "212 WRITING",
-		     "hits": 1,
-		     "label": "212 WRITING"
-		 }, {
-		     "value": "530 ARTS",
-		     "hits": 1,
-		     "label": "530 ARTS"
-		 }, {
-		     "value": "5311 VISUAL ARTS",
-		     "hits": 1,
-		     "label": "5311 VISUAL ARTS"
-		 }],
-		 "label": "Subject.OCM"
-	     }, {
-		 "name": "date_original_sim",
-		 "items": [{
-		     "value": "2016-10-27T00:00:00.0000-4:00",
-		     "hits": 1,
-		     "label": "2016-10-27T00:00:00.0000-4:00"
-		 }],
-		 "label": "Date.Original"
-	     },{
-		 "name": "date_artifact_upper_sim",
-		 "items": [{
-		     "value": "1945-08-15",
-		     "hits": 1,
-		     "label": "1945-08-15"
-		 },
-			   {
-			       "value": "1933-02-14",
-			       "hits": 1,
-			       "label": "1933-02-14"
-			   }
-			  ],
-		 "label": "Date.Artifact.Upper"
-	     }, {
-		 "name": "date_artifact_lower_sim",
-		 "items": [{
-		     "value": "1933-02-15",
-		     "hits": 1,
-		     "label": "1933-02-15"
-		 },{
-		     "value": "1918-03-01",
-		     "hits": 1,
-		     "label": "1918-03-01"
-		 }],
-		 "label": "Date.Artifact.Lower"
-	     }, {
-		 "name": "date_image_upper_sim",
-		 "items": [],
-		 "label": "Date.Image.Upper"
-	     }, {
-		 "name": "date_image_lower_sim",
-		 "items": [],
-		 "label": "Date.Image.Lower"
-	     }, {
-		 "name": "subject_loc_sim",
-		 "items": [{
-		     "value": "Washington, George, 1732-1799 -- Death and burial",
-		     "hits": 1,
-		     "label": "Washington, George, 1732-1799 -- Death and burial"
-		 }],
-		 "label": "Subject.LOC"
-	     }, {
-		 "name": "subject_lcsh_sim",
-		 "items": [{
-		     "value": "Washington, George, 1732-1799 -- Death and burial",
-		     "hits": 1,
-		     "label": "Washington, George, 1732-1799 -- Death and burial"
-		 }],
-		 "label": "Subject.LCSH"
-	     }, {
-		 "name": "creator_photographer_sim",
-		 "items": [{
-		     "value": "Adam Malantonio",
-		     "hits": 1,
-		     "label": "Adam Malantonio"
-		 }, {
-		     "value": "Demiere, Darcis de -- engraver",
-		     "hits": 1,
-		     "label": "Demiere, Darcis de -- engraver"
-		 }, {
-		     "value": "Lafayette College",
-		     "hits": 1,
-		     "label": "Lafayette College"
-		 }, {
-		     "value": "Lafayette Special Collections and College Archives",
-		     "hits": 1,
-		     "label": "Lafayette Special Collections and College Archives"
-		 }, {
-		     "value": "creator4",
-		     "hits": 1,
-		     "label": "creator4"
-		 }, {
-		     "value": "test creator",
-		     "hits": 1,
-		     "label": "test creator"
-		 }],
-		 "label": "Creator.Photographer"
-	     }, {
-		 "name": "creator_maker_sim",
-		 "items": [],
-		 "label": "Creator.Maker"
-	     }, {
-		 "name": "publisher_original_sim",
-		 "items": [{
-		     "value": "Esnauts et Rapilly -- publisher",
-		     "hits": 1,
-		     "label": "Esnauts et Rapilly -- publisher"
-		 }, {
-		     "value": "Special Collections \u0026 College Archives, Skillman Library, Lafayette College",
-		     "hits": 1,
-		     "label": "Special Collections \u0026 College Archives, Skillman Library, Lafayette College"
-		 }],
-		 "label": "Publisher.Original"
-	     }],
-	     "pages": {
-		 "current_page": 1,
-		 "next_page": 2,
-		 "prev_page": null,
-		 "total_pages": 2,
-		 "limit_value": 10,
-		 "offset_value": 0,
-		 "total_count": 30,
-		 "first_page?": true,
-		 "last_page?": false
-	     },
-	     "facet_counts": {
-		 "facet_queries": {},
-		 "facet_fields": {
-		     "human_readable_type_sim": ["Work", 2],
-		     "resource_type_sim": [],
-		     "creator_sim": ["Adam Malantonio", 1, "Demiere, Darcis de -- engraver", 1, "Lafayette College", 1, "Lafayette Special Collections and College Archives", 1, "creator4", 1, "test creator", 1],
-		     "keyword_sim": ["Alpha Chi Rho (Fraternity)", 1, "Lafayette College (Easton, Pa.) -- Buildings", 1, "Lafayette College (Easton, Pa.) -- Student housing", 1, "The Lafayette", 1, "keyword4", 1, "test keyword", 1],
-		     "subject_sim": ["Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits", 1, "Test Term Baz PUT create", 1, "Test Term Qux PUT create", 1, "Test Term: Another one", 1, "Washington, George, 1732-1799 -- Death and burial", 1],
-		     "language_sim": ["english", 1],
-		     "based_near_sim": [],
-		     "publisher_sim": ["Esnauts et Rapilly -- publisher", 1, "Special Collections \u0026 College Archives, Skillman Library, Lafayette College", 1],
-		     "file_format_sim": [],
-		     "subject_ocm_sim": ["200 COMMUNICATION", 1, "205 MAIL", 1, "210 RECORDS", 1, "212 WRITING", 1, "530 ARTS", 1, "5311 VISUAL ARTS", 1],
-		     "date_original_sim": ["2016-10-27T00:00:00.0000-4:00", 1],
-		     "date_artifact_upper_sim": ["1945-08-15", 1, "1945-09-15", 1],
-		     "date_artifact_lower_sim": ["1933-02-15", 1, "1934-03-15", 1],
-		     "date_image_upper_sim": [],
-		     "date_image_lower_sim": [],
-		     "subject_loc_sim": ["Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits", 1, "Test Term Baz PUT create", 1, "Test Term Qux PUT create", 1, "Test Term: Another one", 1, "Washington, George, 1732-1799 -- Death and burial", 1],
-		     "subject_lcsh_sim": ["Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits", 1, "Test Term Baz PUT create", 1, "Test Term Qux PUT create", 1, "Test Term: Another one", 1, "Washington, George, 1732-1799 -- Death and burial", 1],
-		     "creator_photographer_sim": ["Adam Malantonio", 1, "Demiere, Darcis de -- engraver", 1, "Lafayette College", 1, "Lafayette Special Collections and College Archives", 1, "creator4", 1, "test creator", 1],
-		     "creator_maker_sim": [],
-		     "publisher_original_sim": ["Esnauts et Rapilly -- publisher", 1, "Special Collections \u0026 College Archives, Skillman Library, Lafayette College", 1]
-		 },
-		 "facet_dates": {},
-		 "facet_ranges": {
-		     "date_artifact_lower_dtsi": {
-			 "counts": [],
-			 "gap": "+1MONTH",
-			 "start": "1900-01-01T00:00:00Z",
-			 "end": "2016-12-01T00:00:00Z"
-		     },
-		     "date_artifact_upper_dtsi": {
-			 "counts": [],
-			 "gap": "+1MONTH",
-			 "start": "1900-01-01T00:00:00Z",
-			 "end": "2016-12-01T00:00:00Z"
-		     }
-		 },
-		 "facet_intervals": {},
-		 "facet_heatmaps": {}
-	     }
-	    }
+{
+  "response": {
+    "docs": [
+      {
+        "id": "cn69m4128",
+        "title": [
+          "[fd0001] [Kasuga Shrine: Calling the Deer]"
+        ],
+        "creator": [],
+        "contributor": [],
+        "description": [],
+        "keyword": [],
+        "rights": [
+          "This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."
+        ],
+        "publisher": [
+          "Special Collections & College Archives, Skillman Library, Lafayette College"
+        ],
+        "date_created": [],
+        "subject": [],
+        "language": [],
+        "identifier": [],
+        "based_near": [],
+        "related_url": [],
+        "bibliographic_citation": [],
+        "source": [],
+        "proxy_depositor": null,
+        "on_behalf_of": null,
+        "arkivo_checksum": null,
+        "subject_loc": [],
+        "creator_photographer": [],
+        "format_medium": [
+          "Picture postcard"
+        ],
+        "format_size": [],
+        "date_approximate": [],
+        "date_range": [],
+        "creator_maker": [],
+        "date_original_display": [],
+        "description_size": [],
+        "description_note": [],
+        "subject_lcsh": [],
+        "publisher_original": [
+          "Special Collections & College Archives, Skillman Library, Lafayette College"
+        ],
+        "format_extent": [],
+        "description_condition": [],
+        "description_provenance": [],
+        "description_series": [],
+        "identifier_itemnumber": [],
+        "publisher_digital": [
+          "Special Collections & College Archives, Skillman Library, Lafayette College"
+        ],
+        "format_digital": [],
+        "rights_digital": [
+          "This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."
+        ],
+        "subject_ocm": [
+          "720 WAR",
+          "212 WRITING",
+          "530 ARTS",
+          "205 MAIL",
+          "5311 VISUAL ARTS",
+          "210 RECORDS",
+          "200 COMMUNICATION"
+        ],
+        "description_critical": [
+          "The letter was sent to the 324th Philippines Expeditionary Force Field Post Office, attn: 1st branch office \"I\" Unit #1061 and postmarked December 24th, 1945. The rubber stamp \"C.C.D\" stands for the \"Civil Censorship Detachment\" (of General Headquarters) and \"321\" indicates the office that processed the letter. The \"PC\" logo inside of the shield-shaped stamp indicates that this communication was approved by the censor (Censorship-Passed)."
+        ],
+        "description_indicia": [
+          "[1/2 divided back] 郵便はがき",
+          "官幣大社　春日神社　社務所発行"
+        ],
+        "description_text": [],
+        "description_inscription": [
+          "20.12.24 postmark / 5-sen red Togo postage stamp / 10-sen orange Fuji-san postage stamp / 比島派遣第三二四野戦ノ郵便所第一分所気附威一〇六一部隊",
+          "C.C.D.-321"
+        ],
+        "description_ethnicity": [
+          "Japanese"
+        ],
+        "description_citation": [],
+        "coverage_location_country": [
+          "Japan"
+        ],
+        "coverage_location": [
+          "Philippine Islands",
+          "Nara"
+        ],
+        "creator_company": [
+          "Kasuga Shrine"
+        ],
+        "creator_digital": [
+          "The East Asia Image Collection is a joint project between Paul D. Barclay, General Editor and Associate Professor of History, and Digital Scholarship Services, Skillman Library, Lafayette College."
+        ],
+        "title_japanese": [
+          "官幣大社春日神社鹿寄せ"
+        ],
+        "title_chinese": [],
+        "title_korean": [],
+        "relation_seealso": [],
+        "date_original": [],
+        "date_artifact_upper": [
+          "1945-08-15"
+        ],
+        "date_artifact_lower": [
+          "1933-02-15"
+        ],
+        "date_image_upper": [],
+        "date_image_lower": [],
+        "title_name": [
+          "[fd0001] [Kasuga Shrine: Calling the Deer]"
+        ],
+        "description_class": [],
+        "date_birth_display": [],
+        "coverage_place_birth": [],
+        "description_military_branch": [],
+        "description_military_rank": [],
+        "description_military_unit": [],
+        "date_death_display": [],
+        "coverage_place_death": [],
+        "description_cause_death": [],
+        "description_honors": [],
+        "thumbnail_path": "http://localhost:3000/downloads/postcard?file=thumbnail",
+        "uses_vocabulary": [],
+        "form": [],
+        "score": 1
+      },
+      {
+        "id": "mw22v5449",
+        "title": [
+          "MR. LE MIS. DE LA LAFAYETTE"
+        ],
+        "creator": [
+          "Demiere, Darcis de -- engraver"
+        ],
+        "contributor": [],
+        "description": [
+          "Portraits: Before 1789"
+        ],
+        "keyword": [],
+        "rights": [
+          "This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."
+        ],
+        "publisher": [
+          "Esnauts et Rapilly -- publisher"
+        ],
+        "date_created": [],
+        "subject": [
+          "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits",
+          "Washington, George, 1732-1799 -- Death and burial"
+        ],
+        "language": [],
+        "identifier": [
+          "I.1.a"
+        ],
+        "based_near": [],
+        "related_url": [],
+        "bibliographic_citation": [],
+        "source": [
+          "Special Collections & College Archives, Skillman Library, Lafayette College"
+        ],
+        "proxy_depositor": null,
+        "on_behalf_of": null,
+        "arkivo_checksum": null,
+        "subject_loc": [
+          "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits",
+          "Washington, George, 1732-1799 -- Death and burial"
+        ],
+        "creator_photographer": [
+          "Demiere, Darcis de -- engraver"
+        ],
+        "format_medium": [
+          "engraving"
+        ],
+        "format_size": [
+          "1 print : image 25.2 x 17.7 cm."
+        ],
+        "date_approximate": [],
+        "date_range": [],
+        "creator_maker": [],
+        "date_original_display": [],
+        "description_size": [
+          "Portraits: Before 1789"
+        ],
+        "description_note": [
+          "Portraits: Before 1789"
+        ],
+        "subject_lcsh": [
+          "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits",
+          "Washington, George, 1732-1799 -- Death and burial"
+        ],
+        "publisher_original": [
+          "Esnauts et Rapilly -- publisher"
+        ],
+        "format_extent": [
+          "1 print : image 25.2 x 17.7 cm."
+        ],
+        "description_condition": [
+          "Portraits: Before 1789"
+        ],
+        "description_provenance": [
+          "Portraits: Before 1789"
+        ],
+        "description_series": [
+          "Portraits: Before 1789"
+        ],
+        "identifier_itemnumber": [
+          "I.1.a"
+        ],
+        "publisher_digital": [
+          "Esnauts et Rapilly -- publisher"
+        ],
+        "format_digital": [
+          "1 print : image 25.2 x 17.7 cm."
+        ],
+        "rights_digital": [
+          "This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."
+        ],
+        "subject_ocm": [],
+        "description_critical": [],
+        "description_indicia": [],
+        "description_text": [],
+        "description_inscription": [],
+        "description_ethnicity": [],
+        "description_citation": [],
+        "coverage_location_country": [],
+        "coverage_location": [],
+        "creator_company": [],
+        "creator_digital": [],
+        "title_japanese": [],
+        "title_chinese": [],
+        "title_korean": [],
+        "relation_seealso": [],
+        "date_original": [],
+        "date_artifact_upper": [],
+        "date_artifact_lower": [],
+        "date_image_upper": [],
+        "date_image_lower": [],
+        "title_name": [
+          "MR. LE MIS. DE LA LAFAYETTE"
+        ],
+        "description_class": [
+          "Portraits: Before 1789"
+        ],
+        "date_birth_display": [],
+        "coverage_place_birth": [],
+        "description_military_branch": [
+          "Portraits: Before 1789"
+        ],
+        "description_military_rank": [
+          "Portraits: Before 1789"
+        ],
+        "description_military_unit": [
+          "Portraits: Before 1789"
+        ],
+        "date_death_display": [],
+        "coverage_place_death": [],
+        "description_cause_death": [
+          "Portraits: Before 1789"
+        ],
+        "description_honors": [
+          "Portraits: Before 1789"
+        ],
+        "thumbnail_path": "/downloads/print?file=thumbnail",
+        "uses_vocabulary": [],
+        "form": [],
+        "score": 1
+      }
+    ],
+    "facets": {
+      "subject_ocm_sim": [
+        {
+          "value": "720 WAR",
+          "hits": 1,
+          "label": "720 WAR"
+        },
+        {
+          "value": "212 WRITING",
+          "hits": 1,
+          "label": "212 WRITING"
+        },
+        {
+          "value": "530 ARTS",
+          "hits": 1,
+          "label": "530 ARTS"
+        },
+        {
+          "value": "205 MAIL",
+          "hits": 1,
+          "label": "205 MAIL"
+        },
+        {
+          "value": "5311 VISUAL ARTS",
+          "hits": 1,
+          "label": "5311 VISUAL ARTS"
+        },
+        {
+          "value": "210 RECORDS",
+          "hits": 1,
+          "label": "210 RECORDS"
+        },
+        {
+          "value": "200 COMMUNICATION",
+          "hits": 1,
+          "label": "200 COMMUNICATION"
+        }
+      ],
+      "creator_sim": [
+        {
+          "value": "Demiere, Darcis de -- engraver",
+          "hits": 1,
+          "label": "Demiere, Darcis de -- engraver"
+        }
+      ],
+      "subject_lcsh_sim": [
+        {
+          "value": "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits",
+          "hits": 1,
+          "label": "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits"
+        },
+        {
+          "value": "Washington, George, 1732-1799 -- Death and burial",
+          "hits": 1,
+          "label": "Washington, George, 1732-1799 -- Death and burial"
+        }
+      ]
+    },
+    "pages": {
+      "current_page": 1,
+      "next_page": null,
+      "prev_page": null,
+      "total_pages": 1,
+      "limit_value": 2,
+      "offset_value": 0,
+      "total_count": 2,
+      "first_page?": true,
+      "last_page?": true
+    }
+  }
 }

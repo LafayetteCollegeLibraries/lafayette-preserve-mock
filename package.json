@@ -4,8 +4,9 @@
   "private": true,
   "main": "index.js",
   "scripts": {
-    "start": "./cli.js",
-    "debug": "DEBUG=lafayette-preserve-mock npm start"
+    "build-catalog": "node build-catalog",
+    "debug": "DEBUG=lafayette-preserve-mock npm start",
+    "start": "./cli.js"
   },
   "dependencies": {
     "body-parser": "^1.13.3",

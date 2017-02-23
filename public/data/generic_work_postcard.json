@@ -1,1 +1,644 @@
-{"id":"cn69m4128","create_date":"2016-11-07T17:58:24.651+00:00","modified_date":"2016-11-07T17:58:39.839+00:00","head":[{"id":"http://139.147.4.138:8083/fcrepo/rest/dev/cn/69/m4/12/cn69m4128/list_source#g94978100"}],"tail":[{"id":"http://139.147.4.138:8083/fcrepo/rest/dev/cn/69/m4/12/cn69m4128/list_source#g96769440"}],"depositor":"griffinj@lafayette.edu","title":["[fd0001] [Kasuga Shrine: Calling the Deer]"],"date_uploaded":"2016-11-07T17:58:20.771+00:00","date_modified":"2016-11-07T17:58:20.773+00:00","owner":null,"label":null,"relative_path":null,"import_url":null,"part_of":[],"resource_type":[],"creator":[],"contributor":[],"description":[],"keyword":[],"rights":["This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."],"publisher":["Special Collections \u0026 College Archives, Skillman Library, Lafayette College"],"date_created":[],"subject":[],"language":[],"identifier":[],"based_near":[],"related_url":[],"bibliographic_citation":[],"source":[],"proxy_depositor":null,"on_behalf_of":null,"arkivo_checksum":null,"subject_loc":[],"creator_photographer":[],"format_medium":["Picture postcard"],"format_size":[],"date_approximate":[],"date_range":[],"creator_maker":[],"date_original_display":[],"description_size":[],"description_note":[],"subject_lcsh":[],"publisher_original":["Special Collections \u0026 College Archives, Skillman Library, Lafayette College"],"format_extent":[],"description_condition":[],"description_provenance":[],"description_series":[],"identifier_itemnumber":[],"publisher_digital":["Special Collections \u0026 College Archives, Skillman Library, Lafayette College"],"format_digital":[],"rights_digital":["This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."],"subject_ocm":["720 WAR","212 WRITING","530 ARTS","205 MAIL","5311 VISUAL ARTS","210 RECORDS","200 COMMUNICATION"],"description_critical":["The letter was sent to the 324th Philippines Expeditionary Force Field Post Office, attn: 1st branch office \"I\" Unit #1061 and postmarked December 24th, 1945. The rubber stamp \"C.C.D\" stands for the \"Civil Censorship Detachment\" (of General Headquarters) and \"321\" indicates the office that processed the letter. The \"PC\" logo inside of the shield-shaped stamp indicates that this communication was approved by the censor (Censorship-Passed)."],"description_indicia":["[1/2 divided back] 郵便はがき","官幣大社　春日神社　社務所発行"],"description_text":[],"description_inscription":["20.12.24 postmark / 5-sen red Togo postage stamp / 10-sen orange Fuji-san postage stamp / 比島派遣第三二四野戦ノ郵便所第一分所気附威一〇六一部隊","C.C.D.-321"],"description_ethnicity":["Japanese"],"description_citation":[],"coverage_location_country":["Japan"],"coverage_location":["Philippine Islands","Nara"],"creator_company":["Kasuga Shrine"],"creator_digital":["The East Asia Image Collection is a joint project between Paul D. Barclay, General Editor and Associate Professor of History, and Digital Scholarship Services, Skillman Library, Lafayette College."],"title_japanese":["官幣大社春日神社鹿寄せ"],"title_chinese":[],"title_korean":[],"relation_seealso":[],"date_original":[],"date_artifact_upper":["1945-08-15"],"date_artifact_lower":["1933-02-15"],"date_image_upper":[],"date_image_lower":[],"title_name":["[fd0001] [Kasuga Shrine: Calling the Deer]"],"description_class":[],"date_birth_display":[],"coverage_place_birth":[],"description_military_branch":[],"description_military_rank":[],"description_military_unit":[],"date_death_display":[],"coverage_place_death":[],"description_cause_death":[],"description_honors":[],"thumbnail_path":"http://localhost:3000/downloads/postcard?file=thumbnail","uses_vocabulary":[],"form":[{"authorities":[],"label":"has_model","type":"url","name":"has_model"},{"authorities":[],"label":"create_date","type":"url","name":"create_date"},{"authorities":[],"label":"modified_date","type":"url","name":"modified_date"},{"authorities":[],"label":"head","type":"url","name":"head"},{"authorities":[],"label":"tail","type":"url","name":"tail"},{"authorities":[],"label":"depositor","type":"string","name":"depositor"},{"authorities":[],"label":"title","type":"string","name":"title"},{"authorities":[],"label":"date_uploaded","type":"date","name":"date_uploaded"},{"authorities":[],"label":"date_modified","type":"date","name":"date_modified"},{"authorities":[],"label":"owner","type":"url","name":"owner"},{"authorities":[],"label":"label","type":"url","name":"label"},{"authorities":[],"label":"relative_path","type":"url","name":"relative_path"},{"authorities":[],"label":"import_url","type":"string","name":"import_url"},{"authorities":[],"label":"part_of","type":"url","name":"part_of"},{"authorities":[],"label":"resource_type","type":"string","name":"resource_type"},{"authorities":[],"label":"creator","type":"string","name":"creator"},{"authorities":[],"label":"contributor","type":"string","name":"contributor"},{"authorities":[],"label":"description","type":"text","name":"description"},{"authorities":[],"label":"keyword","type":"string","name":"keyword"},{"authorities":[],"label":"rights","type":"string","name":"rights"},{"authorities":[],"label":"publisher","type":"string","name":"publisher"},{"authorities":[],"label":"date_created","type":"string","name":"date_created"},{"authorities":[],"label":"subject","type":"string","name":"subject"},{"authorities":[],"label":"language","type":"string","name":"language"},{"authorities":[],"label":"identifier","type":"string","name":"identifier"},{"authorities":[],"label":"based_near","type":"string","name":"based_near"},{"authorities":[],"label":"related_url","type":"string","name":"related_url"},{"authorities":[],"label":"bibliographic_citation","type":"string","name":"bibliographic_citation"},{"authorities":[],"label":"source","type":"string","name":"source"},{"authorities":[],"label":"proxy_depositor","type":"string","name":"proxy_depositor"},{"authorities":[],"label":"on_behalf_of","type":"string","name":"on_behalf_of"},{"authorities":[],"label":"arkivo_checksum","type":"url","name":"arkivo_checksum"},{"authorities":[],"label":"subject_loc","type":"string","name":"subject_loc"},{"authorities":[],"label":"creator_photographer","type":"string","name":"creator_photographer"},{"authorities":[],"label":"format_medium","type":"url","name":"format_medium"},{"authorities":[],"label":"format_size","type":"string","name":"format_size"},{"authorities":[],"label":"date_approximate","type":"string","name":"date_approximate"},{"authorities":[],"label":"date_range","type":"string","name":"date_range"},{"authorities":[],"label":"creator_maker","type":"url","name":"creator_maker"},{"authorities":[],"label":"date_original_display","type":"string","name":"date_original_display"},{"authorities":[],"label":"description_size","type":"text","name":"description_size"},{"authorities":[],"label":"description_note","type":"text","name":"description_note"},{"authorities":[],"label":"subject_lcsh","type":"string","name":"subject_lcsh"},{"authorities":[],"label":"publisher_original","type":"string","name":"publisher_original"},{"authorities":[],"label":"format_extent","type":"string","name":"format_extent"},{"authorities":[],"label":"description_condition","type":"text","name":"description_condition"},{"authorities":[],"label":"description_provenance","type":"text","name":"description_provenance"},{"authorities":[],"label":"description_series","type":"text","name":"description_series"},{"authorities":[],"label":"identifier_itemnumber","type":"string","name":"identifier_itemnumber"},{"authorities":[],"label":"publisher_digital","type":"string","name":"publisher_digital"},{"authorities":[],"label":"format_digital","type":"string","name":"format_digital"},{"authorities":[],"label":"rights_digital","type":"string","name":"rights_digital"},{"authorities":[],"label":"subject_ocm","type":"string","name":"subject_ocm"},{"authorities":[],"label":"description_critical","type":"url","name":"description_critical"},{"authorities":[],"label":"description_indicia","type":"url","name":"description_indicia"},{"authorities":[],"label":"description_text","type":"url","name":"description_text"},{"authorities":[],"label":"description_inscription","type":"url","name":"description_inscription"},{"authorities":[],"label":"description_ethnicity","type":"url","name":"description_ethnicity"},{"authorities":[],"label":"description_citation","type":"url","name":"description_citation"},{"authorities":[],"label":"coverage_location_country","type":"url","name":"coverage_location_country"},{"authorities":[],"label":"coverage_location","type":"url","name":"coverage_location"},{"authorities":[],"label":"creator_company","type":"url","name":"creator_company"},{"authorities":[],"label":"creator_digital","type":"url","name":"creator_digital"},{"authorities":[],"label":"title_japanese","type":"url","name":"title_japanese"},{"authorities":[],"label":"title_chinese","type":"url","name":"title_chinese"},{"authorities":[],"label":"title_korean","type":"url","name":"title_korean"},{"authorities":[],"label":"relation_seealso","type":"url","name":"relation_seealso"},{"authorities":[],"label":"date_original","type":"date","name":"date_original"},{"authorities":[],"label":"date_artifact_upper","type":"date","name":"date_artifact_upper"},{"authorities":[],"label":"date_artifact_lower","type":"date","name":"date_artifact_lower"},{"authorities":[],"label":"date_image_upper","type":"date","name":"date_image_upper"},{"authorities":[],"label":"date_image_lower","type":"date","name":"date_image_lower"},{"authorities":[],"label":"title_name","type":"string","name":"title_name"},{"authorities":[],"label":"description_class","type":"text","name":"description_class"},{"authorities":[],"label":"date_birth_display","type":"string","name":"date_birth_display"},{"authorities":[],"label":"coverage_place_birth","type":"string","name":"coverage_place_birth"},{"authorities":[],"label":"description_military_branch","type":"text","name":"description_military_branch"},{"authorities":[],"label":"description_military_rank","type":"text","name":"description_military_rank"},{"authorities":[],"label":"description_military_unit","type":"text","name":"description_military_unit"},{"authorities":[],"label":"date_death_display","type":"string","name":"date_death_display"},{"authorities":[],"label":"coverage_place_death","type":"string","name":"coverage_place_death"},{"authorities":[],"label":"description_cause_death","type":"text","name":"description_cause_death"},{"authorities":[],"label":"description_honors","type":"text","name":"description_honors"}]}
+{
+  "id": "cn69m4128",
+  "create_date": "2016-11-07T17:58:24.651+00:00",
+  "modified_date": "2016-11-07T17:58:39.839+00:00",
+  "head": [
+    {
+      "id": "http://139.147.4.138:8083/fcrepo/rest/dev/cn/69/m4/12/cn69m4128/list_source#g94978100"
+    }
+  ],
+  "tail": [
+    {
+      "id": "http://139.147.4.138:8083/fcrepo/rest/dev/cn/69/m4/12/cn69m4128/list_source#g96769440"
+    }
+  ],
+  "depositor": "griffinj@lafayette.edu",
+  "title": [
+    "[fd0001] [Kasuga Shrine: Calling the Deer]"
+  ],
+  "date_uploaded": "2016-11-07T17:58:20.771+00:00",
+  "date_modified": "2016-11-07T17:58:20.773+00:00",
+  "owner": null,
+  "label": null,
+  "relative_path": null,
+  "import_url": null,
+  "part_of": [],
+  "resource_type": [],
+  "creator": [],
+  "contributor": [],
+  "description": [],
+  "keyword": [],
+  "rights": [
+    "This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."
+  ],
+  "publisher": [
+    "Special Collections & College Archives, Skillman Library, Lafayette College"
+  ],
+  "date_created": [],
+  "subject": [],
+  "language": [],
+  "identifier": [],
+  "based_near": [],
+  "related_url": [],
+  "bibliographic_citation": [],
+  "source": [],
+  "proxy_depositor": null,
+  "on_behalf_of": null,
+  "arkivo_checksum": null,
+  "subject_loc": [],
+  "creator_photographer": [],
+  "format_medium": [
+    "Picture postcard"
+  ],
+  "format_size": [],
+  "date_approximate": [],
+  "date_range": [],
+  "creator_maker": [],
+  "date_original_display": [],
+  "description_size": [],
+  "description_note": [],
+  "subject_lcsh": [],
+  "publisher_original": [
+    "Special Collections & College Archives, Skillman Library, Lafayette College"
+  ],
+  "format_extent": [],
+  "description_condition": [],
+  "description_provenance": [],
+  "description_series": [],
+  "identifier_itemnumber": [],
+  "publisher_digital": [
+    "Special Collections & College Archives, Skillman Library, Lafayette College"
+  ],
+  "format_digital": [],
+  "rights_digital": [
+    "This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."
+  ],
+  "subject_ocm": [
+    "720 WAR",
+    "212 WRITING",
+    "530 ARTS",
+    "205 MAIL",
+    "5311 VISUAL ARTS",
+    "210 RECORDS",
+    "200 COMMUNICATION"
+  ],
+  "description_critical": [
+    "The letter was sent to the 324th Philippines Expeditionary Force Field Post Office, attn: 1st branch office \"I\" Unit #1061 and postmarked December 24th, 1945. The rubber stamp \"C.C.D\" stands for the \"Civil Censorship Detachment\" (of General Headquarters) and \"321\" indicates the office that processed the letter. The \"PC\" logo inside of the shield-shaped stamp indicates that this communication was approved by the censor (Censorship-Passed)."
+  ],
+  "description_indicia": [
+    "[1/2 divided back] 郵便はがき",
+    "官幣大社　春日神社　社務所発行"
+  ],
+  "description_text": [],
+  "description_inscription": [
+    "20.12.24 postmark / 5-sen red Togo postage stamp / 10-sen orange Fuji-san postage stamp / 比島派遣第三二四野戦ノ郵便所第一分所気附威一〇六一部隊",
+    "C.C.D.-321"
+  ],
+  "description_ethnicity": [
+    "Japanese"
+  ],
+  "description_citation": [],
+  "coverage_location_country": [
+    "Japan"
+  ],
+  "coverage_location": [
+    "Philippine Islands",
+    "Nara"
+  ],
+  "creator_company": [
+    "Kasuga Shrine"
+  ],
+  "creator_digital": [
+    "The East Asia Image Collection is a joint project between Paul D. Barclay, General Editor and Associate Professor of History, and Digital Scholarship Services, Skillman Library, Lafayette College."
+  ],
+  "title_japanese": [
+    "官幣大社春日神社鹿寄せ"
+  ],
+  "title_chinese": [],
+  "title_korean": [],
+  "relation_seealso": [],
+  "date_original": [],
+  "date_artifact_upper": [
+    "1945-08-15"
+  ],
+  "date_artifact_lower": [
+    "1933-02-15"
+  ],
+  "date_image_upper": [],
+  "date_image_lower": [],
+  "title_name": [
+    "[fd0001] [Kasuga Shrine: Calling the Deer]"
+  ],
+  "description_class": [],
+  "date_birth_display": [],
+  "coverage_place_birth": [],
+  "description_military_branch": [],
+  "description_military_rank": [],
+  "description_military_unit": [],
+  "date_death_display": [],
+  "coverage_place_death": [],
+  "description_cause_death": [],
+  "description_honors": [],
+  "thumbnail_path": "http://localhost:3000/downloads/postcard?file=thumbnail",
+  "uses_vocabulary": [],
+  "form": [
+    {
+      "authorities": [],
+      "label": "has_model",
+      "type": "url",
+      "name": "has_model"
+    },
+    {
+      "authorities": [],
+      "label": "create_date",
+      "type": "url",
+      "name": "create_date"
+    },
+    {
+      "authorities": [],
+      "label": "modified_date",
+      "type": "url",
+      "name": "modified_date"
+    },
+    {
+      "authorities": [],
+      "label": "head",
+      "type": "url",
+      "name": "head"
+    },
+    {
+      "authorities": [],
+      "label": "tail",
+      "type": "url",
+      "name": "tail"
+    },
+    {
+      "authorities": [],
+      "label": "depositor",
+      "type": "string",
+      "name": "depositor"
+    },
+    {
+      "authorities": [],
+      "label": "title",
+      "type": "string",
+      "name": "title"
+    },
+    {
+      "authorities": [],
+      "label": "date_uploaded",
+      "type": "date",
+      "name": "date_uploaded"
+    },
+    {
+      "authorities": [],
+      "label": "date_modified",
+      "type": "date",
+      "name": "date_modified"
+    },
+    {
+      "authorities": [],
+      "label": "owner",
+      "type": "url",
+      "name": "owner"
+    },
+    {
+      "authorities": [],
+      "label": "label",
+      "type": "url",
+      "name": "label"
+    },
+    {
+      "authorities": [],
+      "label": "relative_path",
+      "type": "url",
+      "name": "relative_path"
+    },
+    {
+      "authorities": [],
+      "label": "import_url",
+      "type": "string",
+      "name": "import_url"
+    },
+    {
+      "authorities": [],
+      "label": "part_of",
+      "type": "url",
+      "name": "part_of"
+    },
+    {
+      "authorities": [],
+      "label": "resource_type",
+      "type": "string",
+      "name": "resource_type"
+    },
+    {
+      "authorities": [],
+      "label": "creator",
+      "type": "string",
+      "name": "creator"
+    },
+    {
+      "authorities": [],
+      "label": "contributor",
+      "type": "string",
+      "name": "contributor"
+    },
+    {
+      "authorities": [],
+      "label": "description",
+      "type": "text",
+      "name": "description"
+    },
+    {
+      "authorities": [],
+      "label": "keyword",
+      "type": "string",
+      "name": "keyword"
+    },
+    {
+      "authorities": [],
+      "label": "rights",
+      "type": "string",
+      "name": "rights"
+    },
+    {
+      "authorities": [],
+      "label": "publisher",
+      "type": "string",
+      "name": "publisher"
+    },
+    {
+      "authorities": [],
+      "label": "date_created",
+      "type": "string",
+      "name": "date_created"
+    },
+    {
+      "authorities": [],
+      "label": "subject",
+      "type": "string",
+      "name": "subject"
+    },
+    {
+      "authorities": [],
+      "label": "language",
+      "type": "string",
+      "name": "language"
+    },
+    {
+      "authorities": [],
+      "label": "identifier",
+      "type": "string",
+      "name": "identifier"
+    },
+    {
+      "authorities": [],
+      "label": "based_near",
+      "type": "string",
+      "name": "based_near"
+    },
+    {
+      "authorities": [],
+      "label": "related_url",
+      "type": "string",
+      "name": "related_url"
+    },
+    {
+      "authorities": [],
+      "label": "bibliographic_citation",
+      "type": "string",
+      "name": "bibliographic_citation"
+    },
+    {
+      "authorities": [],
+      "label": "source",
+      "type": "string",
+      "name": "source"
+    },
+    {
+      "authorities": [],
+      "label": "proxy_depositor",
+      "type": "string",
+      "name": "proxy_depositor"
+    },
+    {
+      "authorities": [],
+      "label": "on_behalf_of",
+      "type": "string",
+      "name": "on_behalf_of"
+    },
+    {
+      "authorities": [],
+      "label": "arkivo_checksum",
+      "type": "url",
+      "name": "arkivo_checksum"
+    },
+    {
+      "authorities": [],
+      "label": "subject_loc",
+      "type": "string",
+      "name": "subject_loc"
+    },
+    {
+      "authorities": [],
+      "label": "creator_photographer",
+      "type": "string",
+      "name": "creator_photographer"
+    },
+    {
+      "authorities": [],
+      "label": "format_medium",
+      "type": "url",
+      "name": "format_medium"
+    },
+    {
+      "authorities": [],
+      "label": "format_size",
+      "type": "string",
+      "name": "format_size"
+    },
+    {
+      "authorities": [],
+      "label": "date_approximate",
+      "type": "string",
+      "name": "date_approximate"
+    },
+    {
+      "authorities": [],
+      "label": "date_range",
+      "type": "string",
+      "name": "date_range"
+    },
+    {
+      "authorities": [],
+      "label": "creator_maker",
+      "type": "url",
+      "name": "creator_maker"
+    },
+    {
+      "authorities": [],
+      "label": "date_original_display",
+      "type": "string",
+      "name": "date_original_display"
+    },
+    {
+      "authorities": [],
+      "label": "description_size",
+      "type": "text",
+      "name": "description_size"
+    },
+    {
+      "authorities": [],
+      "label": "description_note",
+      "type": "text",
+      "name": "description_note"
+    },
+    {
+      "authorities": [],
+      "label": "subject_lcsh",
+      "type": "string",
+      "name": "subject_lcsh"
+    },
+    {
+      "authorities": [],
+      "label": "publisher_original",
+      "type": "string",
+      "name": "publisher_original"
+    },
+    {
+      "authorities": [],
+      "label": "format_extent",
+      "type": "string",
+      "name": "format_extent"
+    },
+    {
+      "authorities": [],
+      "label": "description_condition",
+      "type": "text",
+      "name": "description_condition"
+    },
+    {
+      "authorities": [],
+      "label": "description_provenance",
+      "type": "text",
+      "name": "description_provenance"
+    },
+    {
+      "authorities": [],
+      "label": "description_series",
+      "type": "text",
+      "name": "description_series"
+    },
+    {
+      "authorities": [],
+      "label": "identifier_itemnumber",
+      "type": "string",
+      "name": "identifier_itemnumber"
+    },
+    {
+      "authorities": [],
+      "label": "publisher_digital",
+      "type": "string",
+      "name": "publisher_digital"
+    },
+    {
+      "authorities": [],
+      "label": "format_digital",
+      "type": "string",
+      "name": "format_digital"
+    },
+    {
+      "authorities": [],
+      "label": "rights_digital",
+      "type": "string",
+      "name": "rights_digital"
+    },
+    {
+      "authorities": [],
+      "label": "subject_ocm",
+      "type": "string",
+      "name": "subject_ocm"
+    },
+    {
+      "authorities": [],
+      "label": "description_critical",
+      "type": "url",
+      "name": "description_critical"
+    },
+    {
+      "authorities": [],
+      "label": "description_indicia",
+      "type": "url",
+      "name": "description_indicia"
+    },
+    {
+      "authorities": [],
+      "label": "description_text",
+      "type": "url",
+      "name": "description_text"
+    },
+    {
+      "authorities": [],
+      "label": "description_inscription",
+      "type": "url",
+      "name": "description_inscription"
+    },
+    {
+      "authorities": [],
+      "label": "description_ethnicity",
+      "type": "url",
+      "name": "description_ethnicity"
+    },
+    {
+      "authorities": [],
+      "label": "description_citation",
+      "type": "url",
+      "name": "description_citation"
+    },
+    {
+      "authorities": [],
+      "label": "coverage_location_country",
+      "type": "url",
+      "name": "coverage_location_country"
+    },
+    {
+      "authorities": [],
+      "label": "coverage_location",
+      "type": "url",
+      "name": "coverage_location"
+    },
+    {
+      "authorities": [],
+      "label": "creator_company",
+      "type": "url",
+      "name": "creator_company"
+    },
+    {
+      "authorities": [],
+      "label": "creator_digital",
+      "type": "url",
+      "name": "creator_digital"
+    },
+    {
+      "authorities": [],
+      "label": "title_japanese",
+      "type": "url",
+      "name": "title_japanese"
+    },
+    {
+      "authorities": [],
+      "label": "title_chinese",
+      "type": "url",
+      "name": "title_chinese"
+    },
+    {
+      "authorities": [],
+      "label": "title_korean",
+      "type": "url",
+      "name": "title_korean"
+    },
+    {
+      "authorities": [],
+      "label": "relation_seealso",
+      "type": "url",
+      "name": "relation_seealso"
+    },
+    {
+      "authorities": [],
+      "label": "date_original",
+      "type": "date",
+      "name": "date_original"
+    },
+    {
+      "authorities": [],
+      "label": "date_artifact_upper",
+      "type": "date",
+      "name": "date_artifact_upper"
+    },
+    {
+      "authorities": [],
+      "label": "date_artifact_lower",
+      "type": "date",
+      "name": "date_artifact_lower"
+    },
+    {
+      "authorities": [],
+      "label": "date_image_upper",
+      "type": "date",
+      "name": "date_image_upper"
+    },
+    {
+      "authorities": [],
+      "label": "date_image_lower",
+      "type": "date",
+      "name": "date_image_lower"
+    },
+    {
+      "authorities": [],
+      "label": "title_name",
+      "type": "string",
+      "name": "title_name"
+    },
+    {
+      "authorities": [],
+      "label": "description_class",
+      "type": "text",
+      "name": "description_class"
+    },
+    {
+      "authorities": [],
+      "label": "date_birth_display",
+      "type": "string",
+      "name": "date_birth_display"
+    },
+    {
+      "authorities": [],
+      "label": "coverage_place_birth",
+      "type": "string",
+      "name": "coverage_place_birth"
+    },
+    {
+      "authorities": [],
+      "label": "description_military_branch",
+      "type": "text",
+      "name": "description_military_branch"
+    },
+    {
+      "authorities": [],
+      "label": "description_military_rank",
+      "type": "text",
+      "name": "description_military_rank"
+    },
+    {
+      "authorities": [],
+      "label": "description_military_unit",
+      "type": "text",
+      "name": "description_military_unit"
+    },
+    {
+      "authorities": [],
+      "label": "date_death_display",
+      "type": "string",
+      "name": "date_death_display"
+    },
+    {
+      "authorities": [],
+      "label": "coverage_place_death",
+      "type": "string",
+      "name": "coverage_place_death"
+    },
+    {
+      "authorities": [],
+      "label": "description_cause_death",
+      "type": "text",
+      "name": "description_cause_death"
+    },
+    {
+      "authorities": [],
+      "label": "description_honors",
+      "type": "text",
+      "name": "description_honors"
+    }
+  ]
+}
