@@ -1,4 +1,4 @@
-Usage: lafayette-preserve mock [options]
+Usage: lafayette-preserve-mock [options]
 
 Starts mock LafayettePreserve server.
 
