@@ -139,7 +139,7 @@
   "coverage_place_death": [],
   "description_cause_death": [],
   "description_honors": [],
-  "thumbnail_path": "http://localhost:3000/downloads/postcard?file=thumbnail",
+  "thumbnail_path": "/downloads/postcard?file=thumbnail",
   "uses_vocabulary": [],
   "form": [
     {
