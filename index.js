@@ -14,10 +14,6 @@ app.locals.ENV = env;
 app.locals.ENV_DEVELOPMENT = env == 'development';
 
 app.use(function (req, res, next) {
-  if (app.get('quiet') || app.get('env') !== 'development') {
-    return next()
-  }
-
   debug(`${req.method} ${req.url}`)
   next()
 });

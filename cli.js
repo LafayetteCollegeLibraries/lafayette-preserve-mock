@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 var fs = require('fs');
 var argv = require('minimist')(process.argv.slice(2));
+var debug = require('debug')('lafayette-preserve-mock:cli')
 
 if (argv.h || argv.help) {
   fs.createReadStream(__dirname + '/usage.txt').pipe(process.stdout);
@@ -8,14 +9,10 @@ if (argv.h || argv.help) {
 }
 
 var port = argv.p || argv.port || process.env.PORT || 3000;
-var quiet = argv.q || argv.quiet;
 
-var app = require('./app');
+var app = require('./');
 app.set('port', port);
-app.set('quiet', quiet)
 
 var server = app.listen(port, function() {
-  if (!quiet) {
-    console.log('Express server listening on port ' + server.address().port);
-  }
+  debug('Express server listening on port ' + server.address().port);
 });

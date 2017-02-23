@@ -4,4 +4,3 @@ Starts mock LafayettePreserve server.
 
 Options:
     -p, --port   Specify which port the server will listen on (default: 3000)
-    -q, --quiet  Disables log

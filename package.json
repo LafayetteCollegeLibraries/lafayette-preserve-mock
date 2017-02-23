@@ -2,7 +2,7 @@
   "name": "lafayette-preserve-mock",
   "version": "0.0.1",
   "private": true,
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "start": "./cli.js",
     "debug": "DEBUG=lafayette-preserve-mock npm start"
