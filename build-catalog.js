@@ -1,19 +1,14 @@
 var fs = require('fs')
+var path = require('path')
+var base = path.join('./', 'public', 'data')
 
-function arrayFind (arr, fn) {
-  for (var i = 0; i < arr.length; i++) {
-    if (fn.call(arr[i], arr[i])) {
-      return arr[i]
-    }
-  }
+try {
+  fs.unlinkSync(path.join(base, 'catalog.json'))
+} catch (e) {}
 
-  return null
-}
-
-var docs = [
-  require('./public/data/generic_work_postcard.json'),
-  require('./public/data/generic_work_print.json'),
-]
+var docs = fs.readdirSync(base).map(function (file) {
+  return require('./' + path.join(base, file))
+})
 
 var fieldsToRemove = [
   'create_date',
@@ -33,6 +28,9 @@ var fieldsToRemove = [
 
 var facetsToUse = {
   'creator': 'Creator',
+  'date_artifact_lower': 'Date (Artifact, Lower)',
+  'date_artifact_upper': 'Date (Artifact, Upper)',
+  'date_original': 'Date (Original)',
   'subject_lcsh': 'Subject (LCSH)',
   'subject_ocm': 'Subject (OCM)',
 }
@@ -65,7 +63,13 @@ for (var i = 0; i < docs.length; i++) {
     if (!work[key])
       return
 
-    var name = key + '_sim'
+    var name
+
+    if (/^date/.test(key)) {
+      name = key + '_dtsi'
+    } else {
+      name = key + '_sim'
+    }
 
     work[key].forEach(function (value) {
       var found = false
@@ -114,4 +118,4 @@ var output = {
   }
 }
 
-fs.writeFileSync(__dirname + '/public/data/catalog.json', JSON.stringify(output, true, 2))
+fs.writeFileSync(base + '/catalog.json', JSON.stringify(output, true, 2))
