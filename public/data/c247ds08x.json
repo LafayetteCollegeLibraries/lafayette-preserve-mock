@@ -1,145 +1,176 @@
 {
-  "id": "postcard",
-  "create_date": "2016-11-07T17:58:24.651+00:00",
-  "modified_date": "2016-11-07T17:58:39.839+00:00",
+  "id": "c247ds08x",
+  "create_date": "2016-11-18T18:25:02.482+00:00",
+  "modified_date": "2017-02-10T20:51:17.304+00:00",
   "head": [
     {
-      "id": "http://139.147.4.138:8083/fcrepo/rest/dev/cn/69/m4/12/cn69m4128/list_source#g94978100"
+      "id": "http://139.147.4.138:8083/fcrepo/rest/dev/c2/47/ds/08/c247ds08x/list_source#g96541660"
     }
   ],
   "tail": [
     {
-      "id": "http://139.147.4.138:8083/fcrepo/rest/dev/cn/69/m4/12/cn69m4128/list_source#g96769440"
+      "id": "http://139.147.4.138:8083/fcrepo/rest/dev/c2/47/ds/08/c247ds08x/list_source#g96541660"
     }
   ],
   "depositor": "griffinj@lafayette.edu",
   "title": [
-    "[fd0001] [Kasuga Shrine: Calling the Deer]"
+    "DE  MARQUIS DE LA FAYETTE"
   ],
-  "date_uploaded": "2016-11-07T17:58:20.771+00:00",
-  "date_modified": "2016-11-07T17:58:20.773+00:00",
+  "date_uploaded": "2016-11-18T18:24:58.236+00:00",
+  "date_modified": "Fri Feb 10 20:51:16 2017",
   "owner": null,
   "label": null,
   "relative_path": null,
   "import_url": null,
   "part_of": [],
   "resource_type": [],
-  "creator": [],
+  "creator": [
+    "test author",
+    "Le Clair, B. -- engraver",
+    "Barre, L. -- artist",
+    "Gouda, F. -- engraver",
+    "Kobell, C. -- engraver",
+    "Hill, Samuel, 1766-1804 -- engraver",
+    "Lith. de H. Brunet -- lithographer",
+    "Drummond -- artist"
+  ],
   "contributor": [],
-  "description": [],
+  "description": [
+    "Portraits: Before 1789"
+  ],
   "keyword": [],
   "rights": [
     "This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."
   ],
   "publisher": [
-    "Special Collections & College Archives, Skillman Library, Lafayette College"
+    "F. Bohn -- publisher"
   ],
   "date_created": [],
-  "subject": [],
+  "subject": [
+    "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits"
+  ],
   "language": [],
-  "identifier": [],
+  "identifier": [
+    "I. 8.b"
+  ],
   "based_near": [],
   "related_url": [],
   "bibliographic_citation": [],
-  "source": [],
+  "source": [
+    "Special Collections & College Archives, Skillman Library, Lafayette College"
+  ],
   "proxy_depositor": null,
   "on_behalf_of": null,
   "arkivo_checksum": null,
-  "subject_loc": [],
-  "creator_photographer": [],
-  "format_medium": [
-    "Picture postcard"
+  "bib_collections": [],
+  "subject_loc": [
+    "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits"
   ],
-  "format_size": [],
+  "creator_photographer": [
+    "test author",
+    "Le Clair, B. -- engraver",
+    "Barre, L. -- artist",
+    "Gouda, F. -- engraver",
+    "Kobell, C. -- engraver",
+    "Hill, Samuel, 1766-1804 -- engraver",
+    "Lith. de H. Brunet -- lithographer",
+    "Drummond -- artist"
+  ],
+  "format_medium": [
+    "stipple engraving"
+  ],
+  "format_size": [
+    "1 print : image 28.8 x 21.5 cm."
+  ],
   "date_approximate": [],
   "date_range": [],
   "creator_maker": [],
   "date_original_display": [],
-  "description_size": [],
-  "description_note": [],
-  "subject_lcsh": [],
+  "description_size": [
+    "Portraits: Before 1789"
+  ],
+  "description_note": [
+    "Portraits: Before 1789"
+  ],
+  "subject_lcsh": [
+    "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834 -- Portraits"
+  ],
   "publisher_original": [
-    "Special Collections & College Archives, Skillman Library, Lafayette College"
+    "F. Bohn -- publisher"
   ],
-  "format_extent": [],
-  "description_condition": [],
-  "description_provenance": [],
-  "description_series": [],
-  "identifier_itemnumber": [],
+  "format_extent": [
+    "1 print : image 28.8 x 21.5 cm."
+  ],
+  "description_condition": [
+    "Portraits: Before 1789"
+  ],
+  "description_provenance": [
+    "Portraits: Before 1789"
+  ],
+  "description_series": [
+    "Portraits: Before 1789"
+  ],
+  "identifier_itemnumber": [
+    "I. 8.b"
+  ],
   "publisher_digital": [
-    "Special Collections & College Archives, Skillman Library, Lafayette College"
+    "F. Bohn -- publisher"
   ],
-  "format_digital": [],
+  "format_digital": [
+    "1 print : image 28.8 x 21.5 cm."
+  ],
   "rights_digital": [
     "This image is posted publicly for non-profit educational use, excluding print publication.  For additional information, please see http://digital.lafayette.edu/copyright for our Reproduction, Use, and Copyright Guidelines."
   ],
-  "subject_ocm": [
-    "720 WAR",
-    "212 WRITING",
-    "530 ARTS",
-    "205 MAIL",
-    "5311 VISUAL ARTS",
-    "210 RECORDS",
-    "200 COMMUNICATION"
-  ],
-  "description_critical": [
-    "The letter was sent to the 324th Philippines Expeditionary Force Field Post Office, attn: 1st branch office \"I\" Unit #1061 and postmarked December 24th, 1945. The rubber stamp \"C.C.D\" stands for the \"Civil Censorship Detachment\" (of General Headquarters) and \"321\" indicates the office that processed the letter. The \"PC\" logo inside of the shield-shaped stamp indicates that this communication was approved by the censor (Censorship-Passed)."
-  ],
-  "description_indicia": [
-    "[1/2 divided back] 郵便はがき",
-    "官幣大社　春日神社　社務所発行"
-  ],
+  "subject_ocm": [],
+  "description_critical": [],
+  "description_indicia": [],
   "description_text": [],
-  "description_inscription": [
-    "20.12.24 postmark / 5-sen red Togo postage stamp / 10-sen orange Fuji-san postage stamp / 比島派遣第三二四野戦ノ郵便所第一分所気附威一〇六一部隊",
-    "C.C.D.-321"
-  ],
-  "description_ethnicity": [
-    "Japanese"
-  ],
+  "description_inscription": [],
+  "description_ethnicity": [],
   "description_citation": [],
-  "coverage_location_country": [
-    "Japan"
-  ],
-  "coverage_location": [
-    "Philippine Islands",
-    "Nara"
-  ],
-  "creator_company": [
-    "Kasuga Shrine"
-  ],
-  "creator_digital": [
-    "The East Asia Image Collection is a joint project between Paul D. Barclay, General Editor and Associate Professor of History, and Digital Scholarship Services, Skillman Library, Lafayette College."
-  ],
-  "title_japanese": [
-    "官幣大社春日神社鹿寄せ"
-  ],
+  "coverage_location_country": [],
+  "coverage_location": [],
+  "creator_company": [],
+  "creator_digital": [],
+  "title_japanese": [],
   "title_chinese": [],
   "title_korean": [],
   "relation_seealso": [],
   "date_original": [],
-  "date_artifact_upper": [
-    "1945-08-15"
-  ],
-  "date_artifact_lower": [
-    "1933-02-15"
-  ],
+  "date_artifact_upper": [],
+  "date_artifact_lower": [],
   "date_image_upper": [],
   "date_image_lower": [],
   "title_name": [
-    "[fd0001] [Kasuga Shrine: Calling the Deer]"
+    "DE  MARQUIS DE LA FAYETTE"
   ],
-  "description_class": [],
+  "description_class": [
+    "Portraits: Before 1789"
+  ],
   "date_birth_display": [],
   "coverage_place_birth": [],
-  "description_military_branch": [],
-  "description_military_rank": [],
-  "description_military_unit": [],
+  "description_military_branch": [
+    "Portraits: Before 1789"
+  ],
+  "description_military_rank": [
+    "Portraits: Before 1789"
+  ],
+  "description_military_unit": [
+    "Portraits: Before 1789"
+  ],
   "date_death_display": [],
   "coverage_place_death": [],
-  "description_cause_death": [],
-  "description_honors": [],
-  "thumbnail_path": "/downloads/postcard?file=thumbnail",
+  "description_cause_death": [
+    "Portraits: Before 1789"
+  ],
+  "description_honors": [
+    "Portraits: Before 1789"
+  ],
+  "representative_id": "5138jd84x",
+  "thumbnail_path": "/downloads/c247ds08x?file=thumbnail",
+  "download_path": "/downloads/c247ds08x",
+  "iiif_images": [],
   "uses_vocabulary": [],
   "form": [
     {
@@ -333,6 +364,12 @@
       "label": "arkivo_checksum",
       "type": "url",
       "name": "arkivo_checksum"
+    },
+    {
+      "authorities": [],
+      "label": "bib_collections",
+      "type": "string",
+      "name": "bib_collections"
     },
     {
       "authorities": [],

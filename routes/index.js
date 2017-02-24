@@ -1,35 +1,49 @@
+var fs = require('fs');
 var express = require('express');
 var router = express.Router();
-var fs = require('fs');
-var debug = require('debug')('lafayette-preserve-mock:routes/')
 
-function sendFile (path, mimeType) {
-  return function (req, res) {
-    if (mimeType) {
-      res.setHeader('Content-Type', mimeType);
-    }
-
-    fs.createReadStream('public/' + path).pipe(res);
-  }
-}
-
-function sendJSON (which) {
-  return sendFile('data/' + which + '.json', 'application/json');
-}
-
-function sendImage (which) {
-  return sendFile('img/' + which + '.jpg', 'image/jpeg');
-}
-
+// dummy index route for now
 router.get('/', function(req, res) {
     res.setHeader('Content-Type', 'application/json');
     res.send(JSON.stringify({'name': 'lafayette-preserve-mock'}));
 });
 
-router.get('/catalog.json/?', sendJSON('catalog'));
-router.get('/concern/generic_works/postcard.json', sendJSON('generic_work_postcard'));
-router.get('/concern/generic_works/print.json', sendJSON('generic_work_print'));
-router.get('/downloads/print', sendImage('print'));
-router.get('/downloads/postcard', sendImage('postcard'));
+router.get('/catalog.json/?', catalog)
+router.get('/concern/generic_works/:id.json', handleWork)
+
+// send the same image for everything
+router.get('/downloads/*', handleImages)
 
 module.exports = router;
+
+function sendJSONHeader (res) {
+  res.setHeader('Content-Type', 'application/json')
+}
+
+function catalog (req, res) {
+  setJSONHeader(res)
+  fs.createReadStream('public/data/catalog.json').pipe(res)
+}
+
+function handleWork (req, res) {
+  res.setHeader('Content-Type', 'application/json');
+  var id = req.params.id
+  var filepath = 'public/data/' + id + '.json'
+
+  fs.access(filepath, function (err) {
+    sendJSONHeader(res)
+
+    if (err) {
+      res.status(404)
+      res.end(JSON.stringify({error: 'not found'}))
+      return
+    }
+
+    fs.createReadStream(filepath).pipe(res)
+  })
+}
+
+function handleImages (req, res) {
+  res.setHeader('Content-Type', 'image/jpeg')
+  fs.createReadStream('public/img/postcard.jpg').pipe(res)
+}
