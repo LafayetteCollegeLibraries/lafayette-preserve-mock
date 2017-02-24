@@ -21,7 +21,7 @@ function sendJSONHeader (res) {
 }
 
 function catalog (req, res) {
-  setJSONHeader(res)
+  sendJSONHeader(res)
   fs.createReadStream('public/data/catalog.json').pipe(res)
 }
 
