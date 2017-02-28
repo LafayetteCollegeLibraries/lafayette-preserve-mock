@@ -2,17 +2,7 @@
   "id": "c247ds08x",
   "create_date": "2016-11-18T18:25:02.482+00:00",
   "modified_date": "2017-02-10T20:51:17.304+00:00",
-  "head": [
-    {
-      "id": "http://139.147.4.138:8083/fcrepo/rest/dev/c2/47/ds/08/c247ds08x/list_source#g96541660"
-    }
-  ],
-  "tail": [
-    {
-      "id": "http://139.147.4.138:8083/fcrepo/rest/dev/c2/47/ds/08/c247ds08x/list_source#g96541660"
-    }
-  ],
-  "depositor": "griffinj@lafayette.edu",
+  "depositor": "example@lafayette.edu",
   "title": [
     "DE  MARQUIS DE LA FAYETTE"
   ],

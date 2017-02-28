@@ -2,17 +2,7 @@
   "id": "cn69m4128",
   "create_date": "2016-11-07T17:58:24.651+00:00",
   "modified_date": "2016-11-07T17:58:39.839+00:00",
-  "head": [
-    {
-      "id": "http://139.147.4.138:8083/fcrepo/rest/dev/cn/69/m4/12/cn69m4128/list_source#g94978100"
-    }
-  ],
-  "tail": [
-    {
-      "id": "http://139.147.4.138:8083/fcrepo/rest/dev/cn/69/m4/12/cn69m4128/list_source#g96769440"
-    }
-  ],
-  "depositor": "griffinj@lafayette.edu",
+  "depositor": "example@lafayette.edu",
   "title": [
     "[fd0001] [Kasuga Shrine: Calling the Deer]"
   ],

@@ -2,17 +2,7 @@
   "id": "rb68xb87r",
   "create_date": "2016-11-18T16:33:27.669+00:00",
   "modified_date": "2017-02-16T20:00:15.813+00:00",
-  "head": [
-    {
-      "id": "http://139.147.4.138:8083/fcrepo/rest/dev/rb/68/xb/87/rb68xb87r/list_source#g95006000"
-    }
-  ],
-  "tail": [
-    {
-      "id": "http://139.147.4.138:8083/fcrepo/rest/dev/rb/68/xb/87/rb68xb87r/list_source#g33492620"
-    }
-  ],
-  "depositor": "griffinj@lafayette.edu",
+  "depositor": "example@lafayette.edu",
   "title": [
     "[ip0009] A Strong Porter Carrying Heavy Pot"
   ],
