@@ -1,7 +1,6 @@
 {
   "name": "lafayette-preserve-mock",
   "version": "0.1.0",
-  "private": true,
   "main": "index.js",
   "scripts": {
     "build-catalog": "node build-catalog",
@@ -16,5 +15,22 @@
   },
   "bin": {
     "lafayette-preserve-mock": "./bin/index.js"
-  }
+  },
+  "license": "GPL-3.0",
+  "contributors": [
+    {
+      "name": "James Griffin",
+      "email": "griffinj@lafayette.edu"
+    },
+    {
+      "name": "Adam Malantonio",
+      "email": "malantoa@lafayette.edu"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LafayetteCollegeLibraries/lafayette-preserve-mock"
+  },
+  "url": "https://github.com/LafayetteCollegeLibraries/lafayette-preserve-mock",
+  "bugs": "https://github.com/LafayetteCollegeLibraries/lafayette-preserve-mock/issues"
 }
