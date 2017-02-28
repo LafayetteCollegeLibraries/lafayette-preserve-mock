@@ -13,8 +13,6 @@ var docs = fs.readdirSync(base).map(function (file) {
 var fieldsToRemove = [
   'create_date',
   'modified_date',
-  'head',
-  'tail',
   'depositor',
   'date_uploaded',
   'date_modified',
